@@ -1,0 +1,433 @@
+Region,Maker,Brand,Model,Model year,Supplier,Products,Component category,Category
+Americas,Tesla,Tesla,Model S (USA),2022,thyssenkrupp Bilstein of America Inc.,Front strut,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2022,thyssenkrupp Bilstein of America Inc.,Rear strut,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2022,Robert Bosch Mexico SA de C.V.,Wiper linkage,Wiper System,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Mid West Fabricating Company,Hood striker,Back Door Lock / Trunk Lock,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Bosch [Robert Bosch LLC],Electromechanical brake booster (iBooster),Brake Booster,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Frenados Mexicanos S.A. de C.V. (Bosch Aguascalientes plant),Brake master cylinder,Brake Master Cylinder,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Shock tower cover,Chassis Frame,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Mata Ahsap ve Otomotiv San.Tic. A.S.,Carbon fiber dashboard cover,Dash Panel,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Parking brake caliper pin,Disc Brake (Caliper),Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Parking brake caliper spring,Disc Brake (Caliper),Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,HL Mando Corporation (Formerly Mando Corporation),Rear brake bracket,Disc Brake (Caliper),Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,HL Mando Corporation - Brake plant Pyeongtaek,Rear brake caliper,Disc Brake (Caliper),Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,HL Mando Corporation (Formerly Mando Corporation),Rear brake caliper,Disc Brake (Caliper),Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,BeStar Technologies Inc.,Power liftgate chime,Door Module,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Plastic Omnium Inc.,Front end module,Front End Module,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,Body wedge damper insert,Hinge,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Multimatic Mfg.,Front door upper hinge,Hinge,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Brembo North America Inc.,Electronic parking brake,Parking Brake,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Air suspension compressor bracket,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Pegatron Corporation,Air suspension controller,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Parker-Hannifin Corporation,Air suspension fill valve,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Metro Plastics Technologies, Inc.",Air suspension reservoir mount assembly,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Firestone Industrial Products Company, LLC",Front adaptive air spring module,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,thyssenkrupp Bilstein of America Inc.,Front strut,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Firestone Industrial Products Company, LLC",Rear adaptive air spring module,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,thyssenkrupp Bilstein of America Inc.,Rear strut,Shock Absorber,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,MSSC Inc.,Front stabilizer bar,Stabilizer,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Modatek Systems, Inc.",Front stabilizer bar link,Stabilizer,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,MSSC Inc.,Rear stabilizer bar,Stabilizer,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Modatek Systems, Inc.",Rear stabilizer bar link,Stabilizer,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Steering column cover,Steering Column / Shaft,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,HL Mando Corporation (Formerly Mando Corporation),Steering gear,Steering Gear,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,NTN Bearing Corp. of America,Front knuckle hub and bearing assembly,Steering Knuckle,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Robert Bosch Automotive Steering LLC,Electric power steering (EPS),Steering System,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Mayser USA Inc.,Panorama roof anti pinch strip,Sunroof,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Mabuchi Motor America Corp.,Panorama roof motor,Sunroof,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Sunroof antipinch adaptor,Sunroof,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.)",Rear suspension upper link,Suspension Control Arm,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Liftgate drain plug,Tailgate/Trunk Closure,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Liftgate drain plug,Tailgate/Trunk Closure,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Pacific Die Cut Industries, Inc.",Liftgate water shield,Tailgate/Trunk Closure,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Productos Powers de Mexico, S.A. de C.V.",Steering outer tie rod end,Tie Rod End,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Continental Tire the Americas, LLC",Tire,Tire,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Michelin North America,Tire,Tire,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Prime Wheel Corporation,Wheel,Wheel,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Techniplas US, LLC (Formery Nyloncraft, Inc.)",Rear wheel fairing,Wheel Cover / Cap,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Inteva Products, LLC",Rear window regulator,Window Regulator,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,"Mergon Corporation, USA",Windshield washer bottle,Window Washer,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2021,Robert Bosch Mexico SA de C.V.,Wiper linkage,Wiper System,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2020,HL Mando Corporation (Formerly Mando Corporation),Steering rack,Steering Gear,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2020,AB SKF,Rear wheel hub,Wheel Bearing,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2020,"Inteva Products, LLC",Rear window regulator,Window Regulator,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2019,Brembo North America Inc.,Disc brake caliper,Disc Brake (Caliper),Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2019,Stabilus GmbH,Front hood gas spring,Hinge,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2019,HL Mando Corporation (Formerly Mando Corporation),Steering rack,Steering Gear,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2019,MICHELIN (Compagnie Generale des Etablissements Michelin S.C.A.),Tire,Tire,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2019,AB SKF,Rear wheel hub,Wheel Bearing,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2019,"Inteva Products, LLC",Front window regulator,Window Regulator,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2019,"Inteva Products, LLC",Rear window regulator,Window Regulator,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2018,Hella Pagid GmbH,Disc brake pad,Disc Brake (Pad),Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2018,Stabilus GmbH,Tailgate gas spring,Tailgate/Trunk Closure,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2018,MICHELIN (Compagnie Generale des Etablissements Michelin S.C.A.),Tire,Tire,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2018,Bosch [Robert Bosch GmbH],Front wiper blade,Wiper Arm / Wiper Blade,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2017,Stabilus GmbH,Liftgate gas spring,Tailgate/Trunk Closure,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2016,Stabilus GmbH,Trunk damper,Tailgate/Trunk Closure,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2016,Bosch [Robert Bosch GmbH],Wiper system,Wiper System,Chassis/Body
+Americas,Tesla,Tesla,Model S (USA),2023,"Panasonic Energy Co., Ltd. - Suminoe plant",Lithium-ion battery cell (Cylinder),EV / PHEV / HEV Battery Cell/Module,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2022,"Shenzhen XFH Technology Co., Ltd.",Anode material for lithium-ion battery,Anode Material for EV / PHEV / HEV Battery,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2022,Infineon Technologies AG,IGBT,Inverter,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2022,Euro Group S.p.A.,Motor core,Motor Core,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),Charging cable,On-board Charger,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2022,Tesla,Traction motor,Traction Motor / E-Axle,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,Panasonic Holdings Corporation (Formerly Panasonic Corporation),Lithium-ion battery cell,EV / PHEV / HEV Battery Cell/Module,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,Modine Manufacturing Company,Battery cooling chiller,EV / PHEV / HEV Battery Cooling/Heating System,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"Marelli North America, Inc. - Shelbyville Plant (Formerly Calsonic Kansei North America, Inc.)",Battery cooling reservoir assembly,EV / PHEV / HEV Battery Cooling/Heating System,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,LG Electronics Inc.,Battery heater thermistor,EV / PHEV / HEV Battery Cooling/Heating System,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",12V battery cabin bracket,EV / PHEV / HEV Battery Related Products,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Battery rapid splitter top ring,EV / PHEV / HEV Battery Related Products,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,Methode Power Solutions Group,High-voltage battery fuse box,EV / PHEV / HEV Battery Related Products,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"Plascore, Inc.",High-voltage battery liquid sealer gasket,EV / PHEV / HEV Battery Related Products,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",High-voltage battery seal,EV / PHEV / HEV Battery Related Products,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,R & E Automated Systems,Low-voltage rapid mate for high-voltage battery,EV / PHEV / HEV Battery Related Products,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,NCS Pyrotechnie et Technologies SAS,Pyrotechnic safety switch,EV / PHEV / HEV Battery Related Products,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Charge inlet ECU,On-board Charger,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,Foxconn Interconnect Technology Limited,Charge port assembly,On-board Charger,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Charging jumper adapter,On-board Charger,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Onboard charger ground strap,On-board Charger,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,Tesla,Traction motor,Traction Motor / E-Axle,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,Traction motor cover release handle,Traction Motor / E-Axle,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"ERIKS Seals and Plastics, Inc.",Traction motor O-ring,Traction Motor / E-Axle,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"Pacific Rubber & Packing, Inc.",Traction motor O-ring,Traction Motor / E-Axle,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,MANN+HUMMEL Purolator Filters LLC,Traction motor oil filter,Traction Motor / E-Axle,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"Littelfuse, Inc.",Traction motor sensor encoder,Traction Motor / E-Axle,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2020,Panasonic Holdings Corporation (Formerly Panasonic Corporation),NCA battery cell (Cylindrial),EV / PHEV / HEV Battery Cell/Module,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2020,Tesla,NCA battery park,EV / PHEV / HEV Battery Pack/System,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2020,Tesla,NCA lithium-ion battery system assembly,EV / PHEV / HEV Battery Pack/System,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2020,Tesla,Traction motor,Traction Motor / E-Axle,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2019,Panasonic Holdings Corporation (Formerly Panasonic Corporation),NCA battery cell (Cylindrial),EV / PHEV / HEV Battery Cell/Module,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2019,Tesla,NCA battery park,EV / PHEV / HEV Battery Pack/System,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2016,"Sumitomo Metal Mining Co., Ltd.",Cathode material (lithium nickel oxide) for lithium-ion battery,Cathode Material for EV / PHEV / HEV Battery,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2016,"HOTA Industrial Mfg. Co., Ltd.",Single speed gear reduction,Reduction Gear for EV,e-Powertrain
+Americas,Tesla,Tesla,Model S (USA),2023,"Wuhu Token Sciences Co., Ltd.",Central control screen module,Display,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),Connector housing,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),Electrical connector,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Robert Bosch doo - Serbia,Front wiper motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Bussmann Asia-Pacific,Main fuse box,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),High-voltage wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),Low-voltage wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Champlain Cable Corp.,Main wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Larsen Manufacturing LLC,Front subframe chiller bracket,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,ADAS ECU,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Marelli North America, Inc. - Shelbyville Plant (Formerly Calsonic Kansei North America, Inc.)",A/C cooling fan controller,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Mergon Corporation, USA",A/C duct adapter,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,HVAC sensor,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Fico Mirrors, S.A.",Bluetooth antenna,Antenna,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Pektron Inc,Body control ECU,Body Control ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Panasonic Automotive Systems Company of America,Radio,Car Audio,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Premium Sound Solutions America LLC,Speaker,Car Audio,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Touchscreen MCU,Display,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Pektron Inc,Door ECU,Door ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Foxconn Interconnect Technology Limited,Mobile connector right button,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Molex, LLC",USB media hub port,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,IC board assembly,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,MCU board,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Driver seat heater module,Heater,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Modus Advanced, Inc.",Horn front ducting gasket,Horn,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Wi-Fi USB hub,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Primax Electronics Ltd.,Wireless charger assembly,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,BCS Automotive Interface Solutions GmbH (Formerly TRW Automotive Electronics & Components GmbH),Wireless smartphone charger,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Ningbo Xusheng Auto Technology Co., Ltd.",3 phase high-voltage junction box for onboard charger,Junction Box,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",High-voltage junction box,Junction Box,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Premo Mediteranee S.A.R.L.,Low frequency coil,Keyless Entry / Start System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Pektron Inc,Smart key,Keyless Entry / Start System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Leopold Kostal GmbH & Co. KG,Steering column control module,Lever Combination Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Cluster,Meter,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front radar bracket,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Robert Bosch doo - Serbia,Front wiper motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"LG Innotek Co., Ltd.",Front inline triple camera,On-board Camera,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Metro Plastics Technologies, Inc.",Parking sensor bracket,Park Assist System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Power seat ECU,Power Seat ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Mayser USA Inc.,Liftgate anti pinch sensor assembly,Power Tailgate / Trunk ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Fuses Unlimited,12V battery fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Battery fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Fuses Unlimited,DC-DC converter fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Pegatron Corporation,eFuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quickparts.com Inc.,eFuse cover,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Product and Tooling Technologies, Inc. (PT Tech)",High-voltage fuse bracket,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Fuses Unlimited,Onboard charger fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Methode Electronics, Inc.",Brake pedal switch,Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Bitron Industrie S.p.A.,Driver seat switch,Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Marquardt Switches Inc.,Hazard switch,Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Leopold Kostal GmbH & Co. KG,Liftgate switch,Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Leopold Kostal GmbH & Co. KG,Power window switch (passenger side),Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",HomeLink bracket,Telematics,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Foxconn Interconnect Technology Limited,Thermistor,Temperature Sensor,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Battery cable,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Mid West Fabricating Company,Front bumper carrier wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Front door jumper wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Panasonic Holdings Corporation (Formerly Panasonic Corporation),Front outside door handle wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Mubea de Mexico,Ground strap,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Ningbo Yosun Auto Parts Co., Ltd.",High-voltage wiring harness upper bracket,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Instrument panel wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Main wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Traction motor wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Tranction motor bay wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Molex, LLC",USB bundle assembly,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2020,Continental AG,Front radar sensor,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model S (USA),2020,Gentex Corporation,Garage door opener ECU,Telematics,Electrical
+Americas,Tesla,Tesla,Model S (USA),2020,Continental AG,TPMS receiver,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2019,Hanon Systems (Formerly Halla Visteon Climate Control),Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model S (USA),2019,Air International (USA) Inc.,Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model S (USA),2019,Gentex Corporation,Garage door opener ECU,Telematics,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Axiom Plastics Inc.,Front wheel arch liner,Acoustic Insulator,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Quicksilver Mfg, Inc.",Wheel arch liner sensor cover,Acoustic Insulator,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Techniplas US, LLC (Formery Nyloncraft, Inc.)",Wheel louver liner,Acoustic Insulator,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Door cable retainer,Control Cable,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bal Seal Engineering Inc.,High-voltage cable shield band,Control Cable,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,12V battery fitting bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,MTA USA Corp.,12V battery fitting nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",A/C condenser screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,A/C pipe and hose bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Acceleration sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Acceleration sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Air suspension compressor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Air suspension reservoir bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Antenna screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Battery cooling system bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Body controller bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Body panel rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Body side panel stud,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Brake booster bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Brake line bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Brake pedal bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Cabin filter bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Center tunnel trim bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Center tunnel trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Center tunnel trim spring washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Charge port clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Cluster screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Coolant reservoir bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Cooling system bolt for front traction motor,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Dash panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Dash panel clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Faurecia Duroplast, S.A. de C.V.",Dash panel U clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,Dash support frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",DC-DC converter screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Door closure plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Door controller and sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Door controller bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Door sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Door sensor plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Door trim bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Door window glass bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,Drain tube harness stud mount clip for panorama roof,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Exterior mirror bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Exterior trim fitting screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front air spring bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front airbag screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front body inner panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front brake rotor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front bumper bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front bumper fascia bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,MTA USA Corp.,Front bumper nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front door hinge bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front door striker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front door trim bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Front door trim pad clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front door window glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Nishikawa Rubber Co., Ltd.",Front door window glass seal,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front fender bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front half shaft washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Front inner panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front inner panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front lamp screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front luggage storage bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,East Side Plating Inc.,Front outside door handle screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front seat belt bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front seat belt box clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front seat bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front seat clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Front seat cover clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Front seat pad clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front seat slider bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front subframe rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Front suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front trunk trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front undertray rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front view camera screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front window regulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front wiper bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Head lamp bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Headliner clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,Heater bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Heater bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,High-voltage battery bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",High-voltage battery nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),High-voltage battery rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,High-voltage battery rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,High-voltage battery screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,High-voltage cable bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",High-voltage rapid splitter screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,High-voltage wiring harness clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",High-voltage wiring harness screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"ND Industries, Inc.",Horn bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Horn nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Impact sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Inside door handle bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Interior mirror clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",License plate mount bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",License plate mount screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,Liftgate hinge rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Liftgate trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Main wiring harness plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Motor bay absorber plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Motor bay wiring harness plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Onboard charger screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Onboard charger stud,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Outside door handle bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Panorama roof bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Panorama roof glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Panorama roof motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,Panorama roof rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Parking assist module rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Parking brake caliper bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Parking brake pad bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Parking sensor module plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Passive entry screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,Push-pull clip for high-voltage battery,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Radar sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Radio screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear air spring bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear disc brake bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear door striker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Rear door trim pad clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear door window glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear half shaft washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear interior door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,Rear outside door handle rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear seat frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear stabilizer bar bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear subframe bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Rear suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear traction motor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,Rear traction motor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear view camera bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear window regulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Remote keyless entry screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,Screw grommet for air suspension compressor,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EJOT Fastening Systems L.P.,Seat track position sensor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,Side sill component rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Speaker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Speaker screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Steering column bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Faurecia Interior Systems, Inc.",Steering column clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Steering wheel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Sun visor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Sun visor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Touchscreen bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",TPMS screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Pingood Enterprise Co., Ltd.",Traction motor brush clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Trunk carpet clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Underhood shock tower cover rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Vacuum pump bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Wall connector screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Wheel arch liner plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Wheel nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Windshield washer bottle rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Windshield washer pump rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front door latch grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front door latch grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front door striker grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Liftgate trim grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Minnesota Rubber and Plastics,Wall connector grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,MANN+HUMMEL Purolator Filters LLC,Air filter,Air Cleaner / Air Filter,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,Freudenberg Filtration Technologies Inc.,Air filter,Air Cleaner / Air Filter,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,NTN Bearing Corp. of America,Front half shaft,Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,NTN Bearing Corp. of America,Rear half shaft,Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"ElringKlinger, S.A.U.",Gearbox seal,Transmission Seal,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2020,Hella GmbH & Co. KGaA (FORVIA HELLA),12V battery sensor,Battery,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2023,Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC),Fog lamp,Fog Lamp,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2022,fischer America Inc.,Storage compartment center console,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2022,"Joyson Safety Systems (Formerly Key Safety Systems, Inc.)",Curtain airbag,Curtain Airbag,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2022,Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC),Fog lamp,Fog Lamp,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Novares Mexico North, S. de R.L. de C.V.",A/C ventilator,A/C Ventilator,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Magnesium Products of America (MPA),Front bumper carrier,Bumper,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Multimatic Indiana Inc.,Front bumper system,Bumper,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Parking assist retainer,Bumper,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Parking assist retainer,Bumper,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Rear parking assist retainer,Bumper,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,fischer automotive systems GmbH & Co. KG,Center console armrest,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Mission Plastics, Inc.",Center console cubby holder,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Eissmann Automotive North America, Inc.",Center console panel,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Novares Mexico North, S. de R.L. de C.V.",Center tunnel trim,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Mata Ahsap ve Otomotiv San.Tic. A.S.,Center tunnel trim decoration,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Mission Plastics, Inc.",Console front panel,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Rear center console panel,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Plastikon Industries, Inc.",Rear console cushion close panel,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,BOS Automotive Products Irapuato S.A. DE C.V.,Rear console trim,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Joyson Safety Systems (Formerly Key Safety Systems, Inc.)",Curtain airbag,Curtain Airbag,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Front door lower plate,Door Panel,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Plastikon Industries, Inc.",B pillar lower trim,Door Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Lens International (HK) Ltd.,B pillar trim,Door Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Poliuretanos SW S.A. de C.V.,B pillar upper foam,Door Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Plastikon Industries, Inc.",C pillar accent trim,Door Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Plastikon Industries, Inc.",C pillar bracket,Door Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,TRW Steering Wheels Systems de Chihuahua SA de CV,Driver airbag,Driver Airbag,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,McKechnie Vehicle Components (MVC),Front T-badge,Emblem,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Plastikon Industries, Inc.",T badge support,Emblem,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"LG Innotek Co., Ltd.",Left front repeater camera lamp assembly,Exterior Lighting,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Foam Fabricators Inc.,Footrest,Floor Carpet,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Racemark International, LLC",Rear carpet replacement,Floor Carpet,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Trunk carpet bracket,Floor Carpet,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC),Fog lamp,Fog Lamp,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front fog lamp bracket,Fog Lamp,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Polybrite, a division of Magna Exteriors and Interiors Corp.",Front fog lamp trim,Fog Lamp,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Headliner,Headliner,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front headrest post guide assembly,Headrest,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Instrument panel cubby,Instrument Panel,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Eissmann Automotive North America, Inc.",Lower instrument panel,Instrument Panel,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Pacific Insight Electronics Corp. (PI),Front door pullcup accent lamp,Interior Lighting,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Under seat lamp bracket,Interior Lighting,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Magna Mirrors of America, Inc.",Interior mirror (with monocular camera),Interior Mirror,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Autoliv ASP, Inc. - Auburn Hills Technical Center",Interior mirror triple camera assembly,Interior Mirror,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,McKechnie Vehicle Components (MVC),Left exterior plastic molding,Molding (Body Side),Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,McKechnie Vehicle Components (MVC),Side body rocker sill,Molding (Body Side),Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"FPT Precision Technology (Guangzhou) Co., Ltd. (Formerly Guangzhou Lite-On Mobile Electronic Components Co. Ltd.)",Front outside door handle grip,Outside Door Handle,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,PSM Industries Inc. - Pacific Sintered Metals,Front outside door handle shaft lever,Outside Door Handle,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Techniplas US, LLC (Formery Nyloncraft, Inc.)",Liftgate handle surround,Outside Door Handle,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Techniplas US, LLC (Formery Nyloncraft, Inc.)",Outside door handle backplate,Outside Door Handle,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Metro Plastics Technologies, Inc.",Outside door handle plug,Outside Door Handle,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"FPT Precision Technology (Guangzhou) Co., Ltd. (Formerly Guangzhou Lite-On Mobile Electronic Components Co. Ltd.)",Rear outside door handle grip,Outside Door Handle,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,PSM Industries Inc. - Pacific Sintered Metals,Rear outside door handle shaft lever,Outside Door Handle,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Axiom Plastics Inc.,Front grille cover,Radiator Grille,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",2nd row bolster seat,Seat,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",2nd row seat cushion,Seat,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Mid West Fabricating Company,2nd row seat striker,Seat,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,B&H Engineering,2nd row seat upper bezel,Seat,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front seat suspension plastic insulator,Seat,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Seat cushion,Seat,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Seat hip hook,Seat,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Quicksilver Mfg, Inc.",Front seat track cover,Seat Adjuster / Recliner,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Axiom Plastics Inc.,Seat rail cover,Seat Adjuster / Recliner,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Faurecia Duroplast, S.A. de C.V.",Seat recliner motor,Seat Adjuster / Recliner,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Faurecia (Wuxi) Seating Components Co., Ltd.",Seat recliner tube,Seat Adjuster / Recliner,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Ramko Injection Inc.,Seat slide round spacer,Seat Adjuster / Recliner,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Mid West Fabricating Company,Front seat belt webbing guide,Seat Belt,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Pacific Die Cut Industries, Inc.",Rear seat frame NVH foam,Seat Frame,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",2nd row seat cover,Seat Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",2nd row seat trim,Seat Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Driver seat jumper fabric,Seat Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front seat inner side cover,Seat Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front seat jumper trim,Seat Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front seat trim,Seat Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Polybrite, a division of Magna Exteriors and Interiors Corp.",Double sided tape for rear spoiler,Spoiler,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Nagase America LLC - New York Headquarters,Trunk floor,Trunk / Tailgate Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,PDCI Automotive LLC,Trunk side thinsulate pad,Trunk / Tailgate Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Plastikon Industries, Inc.",Trunk sill,Trunk / Tailgate Trim,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,"Nishikawa Rubber Co., Ltd.",Front Luggage Storage seal,Weatherstrip,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2021,Magna Engineered Glass,Rear quarter window glass,Window Glass,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2020,fischer automotive systems GmbH & Co. KG,Console box,Console,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2020,"Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",Head lamp ballast,Head Lamp,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2019,"Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",Head lamp ballast,Head Lamp,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2019,"Joyson Safety Systems (Formerly Key Safety Systems, Inc.)",Front seat belt,Seat Belt,Interior_Exterior
+Americas,Tesla,Tesla,Model S (USA),2019,"Joyson Safety Systems (Formerly Key Safety Systems, Inc.)",Rear seat belt,Seat Belt,Interior_Exterior

@@ -1,0 +1,501 @@
+Region,Maker,Brand,Model,Model year,Supplier,Products,Component category,Category
+China,Tesla China,Tesla,Model 3 (RR) (China),2023,"Shanghai Delian Chemical Co., Ltd.",Glass bonding,Fastener,General/Smallparts
+China,Tesla China,Tesla,Model Y (4WD) (China),2023,"Shanghai Delian Chemical Co., Ltd.",Glass bonding,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2023,WR Controls USA,Door latch cable,Control Cable,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2023,EFC International,Clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2023,EFC International,Hex nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2023,EFC International,Panel fastener,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2023,"Faurecia Interior Systems, Inc.-Auburn Hills MI",Rear seat frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2023,EFC International,Trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2023,EFC International,Weatherstrip clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2023,"MacLean-Fogg Component Solutions, LLC",Wheel fastener,Fastener,General/Smallparts
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.)",Wheel housing insulator,Acoustic Insulator,General/Smallparts
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Shanghai Delian Chemical Co., Ltd.",Glass bonding,Fastener,General/Smallparts
+China,Tesla China,Tesla,Model Y (4WD) (China),2022,"Shanghai Delian Chemical Co., Ltd.",Glass bonding,Fastener,General/Smallparts
+Europe,Tesla,Tesla,Model Y (Germany),2022,KSM Castings Group GmbH,Bearing,Bearing,General/Smallparts
+Europe,Tesla,Tesla,Model Y (Germany),2022,HellermannTyton GmbH,Cable bundling and fastening elements,Fastener,General/Smallparts
+Europe,Tesla,Tesla,Model Y (Germany),2022,Fraenkische Rohrwerke Gebr. Kirchner GmbH & Co. KG,Clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2022,WR Controls USA,Door latch cable,Control Cable,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2022,EFC International,Clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2022,EFC International,Hex nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2022,EFC International,Panel fastener,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2022,"Faurecia Interior Systems, Inc.-Auburn Hills MI",Rear seat frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2022,EFC International,Trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2022,EFC International,Weatherstrip clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model Y (USA),2022,"MacLean-Fogg Component Solutions, LLC",Wheel fastener,Fastener,General/Smallparts
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Ningbo Xusheng Auto Technology Co., Ltd.",Inverter cover,Acoustic Insulator,General/Smallparts
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.)",Shock absorber bushing,Bush,General/Smallparts
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Jiangsu Changshu Automotive Trim Group Co., Ltd. (Formerly Changshu Automotive Trim Co., Ltd.)",Fastener,Fastener,General/Smallparts
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Shanghai Delian Chemical Co., Ltd.",Glass bonding,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Borgers Ohio, Inc.",Rear wheel arch liner,Acoustic Insulator,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"BizLink Technology, Inc.",AC 3 phase CP cable,Control Cable,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Exo-S Industrias, S.A. de C.V.",Cabin intake upper duct,Duct,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Axiom Plastics Inc.,HVAC inlet duct,Duct,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,12V battery fitting bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",12V battery nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,12V battery screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,2nd row seat back hardware bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,NIFCO America Corporation,2nd row seat cushion clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",A pillar trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,A/C compressor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",A/C compressor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,A/C condenser bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,A/C pipe and hose bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,A/C pipe bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",ABS module bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Acceleration sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Acoustic insulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Air suspension system height controller nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Air suspension system height sensor nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",B pillar trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Battery cooling system nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Body control ECU screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Body controller bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Body controller nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Body wiring harness screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Brake booster nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Brake pedal bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Brake pedal nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Bumper screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",C pillar trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Cabin filter nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,EFC International,Center console clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Center console screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Ceter console bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Charge port bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Charge port screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Coolant reservoir bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Dash support frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Dash support frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Dash support frame nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Door trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",ESC sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Exterior mirror bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Exterior trim fitting bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Nix of America,Exterior trim fitting push-pull rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,EJOT Fastening Systems L.P.,Exterior trim fitting screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front airbag bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front body inner panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front bumper carrier bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front bumper fascia rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front coil spring and damper nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front disc brake bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front door hinge bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front door hinge fitting bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Front door hinge screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front door window glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front energy absorber bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front fender bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Front inner panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front knuckle bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front knuckle nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front lamp screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Front luggage storage bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Nix of America,Front luggage storage sealing rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front outside door handle nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front seat belt box clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front seat belt screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front seat controller bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front seat slider bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front seat slider bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Mission Plastics, Inc.",Front trunk fender clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front undertray bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Front undertray nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front view camera screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Front window regulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",GPS antenna screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Headliner bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Headliner bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Heater bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Heater nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",High-voltage battery bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,High-voltage battery bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Blove Light Precision HK Co.,Ltd.",High-voltage battery clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",High-voltage battery nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,High-voltage battery screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,High-voltage wiring harness bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",High-voltage wiring harness nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Horn bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Horn nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Impact sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Integrated ECU nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Integrated ECU screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Interior camera screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Interior mirror screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",License plate mount screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Liftgate trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Motor bay absorber nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Penthouse bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Penthouse bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Penthouse nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Penthouse nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,EJOT Fastening Systems L.P.,Penthouse screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Radar sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Radar sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Radio antenna screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Radio bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear brake rotor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear bumper bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear door window glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear end panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bollhoff Inc.,Rear end panel rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear energy absorber nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear knuckle bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear lamp nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear outside door handle nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear seat belt bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear seat frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bollhoff Inc.,Rear seat frame rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear seat nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear seat side trim rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear suspension arm nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"L & W, Inc.",Rear suspension arm washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Rear traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bollhoff Inc.,Rear undertray retainer rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bollhoff Inc.,Rear undertray rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Rear window regulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Rocker panel screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bollhoff Inc.,Seat frame rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Faurecia (Wuxi) Seating Components Co., Ltd.",Seat recliner shaft push nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Side sill clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Speaker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Speaker screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Speaker screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Steering column bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Steering column bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Steering column nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Steering gear bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Steering wheel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Sun visor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Trailer hitch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Trailer hitch nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Trailer hitch nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Nix of America,Truck interior push-pull rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Trunk handle nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Trunk hinge fitting nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Trunk latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Trunk latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Underhood shock tower cover rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Wheel arch liner rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Wheel nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Window regulator screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Windshield washer bottle nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Windshield washer pump nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Bossard, Inc",Windshield wiring harness screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Wiper bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,Norm Civata San. Ve Tic. A.S.,Wiper bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,QST International Corp.,Wiring harness screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model 3 (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Rear lamp grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Axiom Plastics Inc.,Front wheel arch liner,Acoustic Insulator,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Quicksilver Mfg, Inc.",Wheel arch liner sensor cover,Acoustic Insulator,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Techniplas US, LLC (Formery Nyloncraft, Inc.)",Wheel louver liner,Acoustic Insulator,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Door cable retainer,Control Cable,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bal Seal Engineering Inc.,High-voltage cable shield band,Control Cable,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,12V battery fitting bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,MTA USA Corp.,12V battery fitting nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",A/C condenser screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,A/C pipe and hose bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Acceleration sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Acceleration sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Air suspension compressor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Air suspension reservoir bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Antenna screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Battery cooling system bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Body controller bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Body panel rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Body side panel stud,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Brake booster bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Brake line bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Brake pedal bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Cabin filter bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Center tunnel trim bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Center tunnel trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Center tunnel trim spring washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Charge port clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Cluster screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Coolant reservoir bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Cooling system bolt for front traction motor,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Dash panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Dash panel clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Faurecia Duroplast, S.A. de C.V.",Dash panel U clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,Dash support frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",DC-DC converter screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Door closure plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Door controller and sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Door controller bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Door sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Door sensor plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Door trim bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Door window glass bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,Drain tube harness stud mount clip for panorama roof,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Exterior mirror bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Exterior trim fitting screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front air spring bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front airbag screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front body inner panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front brake rotor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front bumper bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front bumper fascia bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,MTA USA Corp.,Front bumper nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front door hinge bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front door striker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front door trim bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Front door trim pad clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front door window glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Nishikawa Rubber Co., Ltd.",Front door window glass seal,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front fender bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front half shaft washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Front inner panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front inner panel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front lamp screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front luggage storage bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,East Side Plating Inc.,Front outside door handle screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front seat belt bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front seat belt box clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front seat bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front seat clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Front seat cover clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Front seat pad clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front seat slider bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front subframe rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Front suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front trunk trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front undertray rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front view camera screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front window regulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Front wiper bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Head lamp bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Headliner clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,Heater bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Heater bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,High-voltage battery bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",High-voltage battery nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),High-voltage battery rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,High-voltage battery rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,High-voltage battery screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,High-voltage cable bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",High-voltage rapid splitter screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,High-voltage wiring harness clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",High-voltage wiring harness screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"ND Industries, Inc.",Horn bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Horn nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Impact sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Inside door handle bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Interior mirror clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",License plate mount bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",License plate mount screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,Liftgate hinge rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Liftgate trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Main wiring harness plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Motor bay absorber plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Motor bay wiring harness plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Onboard charger screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Onboard charger stud,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Outside door handle bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Panorama roof bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Panorama roof glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Panorama roof motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,Panorama roof rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Parking assist module rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Parking brake caliper bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Parking brake pad bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Parking sensor module plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Passive entry screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,Push-pull clip for high-voltage battery,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Radar sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Radio screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear air spring bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear disc brake bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear door striker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EFC International,Rear door trim pad clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear door window glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear half shaft washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear interior door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,Rear outside door handle rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear seat frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear stabilizer bar bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear subframe bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Rear suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear traction motor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,QST International Corp.,Rear traction motor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear view camera bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Rear window regulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Remote keyless entry screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,NIFCO America Corporation,Screw grommet for air suspension compressor,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,EJOT Fastening Systems L.P.,Seat track position sensor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Bollhoff Inc.,Side sill component rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Norm Civata San. Ve Tic. A.S.,Speaker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Speaker screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Steering column bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Faurecia Interior Systems, Inc.",Steering column clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Steering wheel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Sun visor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Sun visor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Touchscreen bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",TPMS screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Pingood Enterprise Co., Ltd.",Traction motor brush clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Trunk carpet clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Underhood shock tower cover rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Vacuum pump bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Wall connector screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Wheel arch liner plastic nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Wheel nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Windshield washer bottle rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Windshield washer pump rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front door latch grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Front door latch grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Front door striker grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Liftgate trim grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model S (USA),2021,Minnesota Rubber and Plastics,Wall connector grommet,Grommet,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Mergon Corporation, USA",Rear door NVH seal,Acoustic Insulator,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Flex cable for front seat,Control Cable,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Exo-S Industrias, S.A. de C.V.",A/C airflow splitter duct,Duct,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Mergon Corporation, USA",Front fog lamp duct,Duct,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Mergon Corporation, USA",Side window defroster duct,Duct,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,12V battery fuse bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",2nd row console bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",2nd row seat controller screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",2nd row seat cover bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",2nd row seat pad bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",2nd row seat screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",2nd row seat slider screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",3rd row seat bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",A/C condenser bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,A/C condenser bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",ABS module bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Acceleration sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Active spoiler bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Air duct rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Air suspension compressor and reservoir bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Amplifier screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Antenna screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Battery cooling system rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Body controller screw-washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Body panel rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Body side panel bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Body side panel screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,QST International Corp.,Body side panel washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Brake pedal bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Cabin filter bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Center tunnel trim bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Center tunnel trim bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Charge port bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Cluster screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Coolant reservoir bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Dash panel screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Dash support frame bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",DC-DC converter screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Door trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",ESC sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Exterior lamp bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Exterior mirror bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,EFC International,Exterior trim fitting nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Exterior trim screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front air spring bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front airbag screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front brake rotor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front bumper fascia tapping screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Front cooling system bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Front door drive uint bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Multimatic Mfg.,Front door drive unit,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front door latch screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Nix of America,Front door pinch sensor sealing rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,EFC International,Front door trim pad clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front door window glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Front fender bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front half shaft washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Front inner panel stud,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front seat belt box clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front seat belt screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front seat bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,EFC International,Front seat control clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front seat controller bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,EFC International,Front seat cover plastic rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,EFC International,Front seat pad plastic rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,EFC International,Front seat slide clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Front seat slider bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front seat slider bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front subframe bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Front suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,QST International Corp.,Front traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front undertray rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front view camera screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Front window regulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Headliner screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Heater bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,High-voltage battery bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",High-voltage battery nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),High-voltage battery rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Bollhoff Inc.,High-voltage battery rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",High-voltage rapid splitter screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,QST International Corp.,High-voltage wiring harness bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",High-voltage wiring harness screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Horn nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Impact sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Interior mirror clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",License plate mount bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",License plate mount screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,QST International Corp.,Liftgate hinge bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Liftgate latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Nix of America,Liftgate sealing rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Liftgate trim clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Passive entry screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,NIFCO America Corporation,Push-pull clip for high-voltage battery,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Radar sensor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Radio screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear air spring bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear bumper bolt and washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Bollhoff Inc.,Rear bumper fascia clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Bollhoff Inc.,Rear bumper fascia rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear disc brake bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear door latch bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,EFC International,Rear door lower trim pad clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear door seal bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear door window glass bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear half shaft washer,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,QST International Corp.,Rear lamp screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear license plate screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear stabilizer bar bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear subframe bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,STANLEY Engineered Fastening (Formerly Emhart Teknologies LLC),Rear suspension arm bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear traction motor bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,QST International Corp.,Rear traction motor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Rear undertray nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear view camera bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Rear window regulator nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Remote keyless entry screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Faurecia (Yancheng) Automotive Systems Co., Ltd.",Seat recliner shaft push nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Faurecia (Wuxi) Seating Components Co., Ltd.",Seat recliner shaft push nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,EJOT Fastening Systems L.P.,Seat track position sensor screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Bollhoff Inc.,Side sill component rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,Norm Civata San. Ve Tic. A.S.,Speaker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Speaker bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Spine panel rivet nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Steering column bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Steering wheel bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Touchscreen bolt,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Pingood Enterprise Co., Ltd.",Traction motor brush clip,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Trailer hitch nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Underhood shock tower cover rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Wall connector screw,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Wheel arch liner rivet,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Wheel nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Windshield washer bottle nut,Fastener,General/Smallparts
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Windshield washer pump nut,Fastener,General/Smallparts

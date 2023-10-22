@@ -1,0 +1,42 @@
+Region,Maker,Brand,Model,Model year,Supplier,Products,Component category,Category
+Americas,Tesla,Tesla,Model X (USA),2023,SPAL Automotive USA,Electric drive fan,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Ningbo Xusheng Auto Technology Co., Ltd.",Automatic transmission housing,Automatic Transmission (AT),ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2022,MAHLE Behr USA Inc.,Cooling fan motor,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+China,Tesla China,Tesla,Model Y (4WD) (China),2022,"Ningbo Xusheng Auto Technology Co., Ltd.",Automatic transmission housing,Automatic Transmission (AT),ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2022,MAHLE Behr USA Inc.,Cooling fan motor,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Ningbo Xusheng Auto Technology Co., Ltd.",Transmission housing,Automatic Transmission (AT),ICEpowertrain
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic throttle control housing,Throttle Body,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2021,MANN+HUMMEL Purolator Filters LLC,Air filter,Air Cleaner / Air Filter,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Exo-S Industrias, S.A. de C.V.",Air intake,Air Intake System / Module,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2021,MAHLE Behr USA Inc.,Cooling fan motor,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2021,NTN Bearing Corp. of America,Front half shaft,Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2021,NTN Bearing Corp. of America,Rear half shaft,Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2021,BMC Bil-Mac Corporation,Oil filter adapter,Oil Filter,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2021,Fraenkische Industrial Pipes Mexico S.A. de C.V.,Radiator hose,Radiator Hose,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2021,"ElringKlinger, S.A.U.",Gearbox seal,Transmission Seal,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,MANN+HUMMEL Purolator Filters LLC,Air filter,Air Cleaner / Air Filter,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,Freudenberg Filtration Technologies Inc.,Air filter,Air Cleaner / Air Filter,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,NTN Bearing Corp. of America,Front half shaft,Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,NTN Bearing Corp. of America,Rear half shaft,Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2021,"ElringKlinger, S.A.U.",Gearbox seal,Transmission Seal,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2021,Freudenberg Filtration Technologies Inc.,Air filter,Air Cleaner / Air Filter,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2021,MANN+HUMMEL Purolator Filters LLC,Air filter,Air Cleaner / Air Filter,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2021,NTN Bearing Corp. of America,Front half shaft,Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2021,NTN Bearing Corp. of America,Rear half shaft,Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2021,"ElringKlinger, S.A.U.",Gearbox seal,Transmission Seal,ICEpowertrain
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Ningbo Xusheng Auto Technology Co., Ltd.",Transmission housing,Automatic Transmission (AT),ICEpowertrain
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic throttle control housing,Throttle Body,ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2021,"Hankook AtlasBX., Ltd. (Formerly ATLASBX Co., Ltd.)",Battery,Battery,ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2021,MAHLE GmbH,Cooling fan motor,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model 3 (USA),2020,MAHLE Behr Service America L.L.C. (Formerly MAHLE Behr USA Inc.),"Radiator fan motor (Sourced by MUNRO & ASSOCIATES, USA)",Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model S (USA),2020,Hella GmbH & Co. KGaA (FORVIA HELLA),12V battery sensor,Battery,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2020,SPAL Automotive USA,Cooling fan,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2020,Modine Manufacturing Company,Cooling fan,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2020,"Hankook AtlasBX., Ltd. (Formerly ATLASBX Co., Ltd.)","Battery (Sourced by MUNRO & ASSOCIATES, USA)",Battery,ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2020,MAHLE Behr USA Inc.,Cooling fan motor,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2020,"HBPO North America, Inc.","Radiator fan (Sourced by MUNRO & ASSOCIATES, USA)",Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2020,"HBPO North America, Inc.","Radiator fan motor (Sourced by MUNRO & ASSOCIATES, USA)",Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2020,"HBPO North America, Inc.","Radiator fan shroud (Sourced by MUNRO & ASSOCIATES, USA)",Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model Y (USA),2020,Hyundai WIA Corporation (Formerly WIA Corporation),"Half shaft (Sourced by MUNRO & ASSOCIATES, USA)",Drive Shaft,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2019,SPAL Automotive USA,Cooling fan,Cooling Fan / Cooling Fan Motor,ICEpowertrain
+Americas,Tesla,Tesla,Model X (USA),2019,Modine Manufacturing Company,Cooling fan,Cooling Fan / Cooling Fan Motor,ICEpowertrain

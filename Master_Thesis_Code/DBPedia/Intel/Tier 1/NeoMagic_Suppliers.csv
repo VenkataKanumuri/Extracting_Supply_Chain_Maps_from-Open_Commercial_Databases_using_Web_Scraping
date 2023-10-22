@@ -1,0 +1,15 @@
+supplier,product,customer
+Biostar,System_on_a_chip,NeoMagic
+Nufront,System_on_a_chip,NeoMagic
+MediaTek,System_on_a_chip,NeoMagic
+Calxeda,System_on_a_chip,NeoMagic
+ZiiLABS,System_on_a_chip,NeoMagic
+Advanced_Micro_Devices,System_on_a_chip,NeoMagic
+Amlogic,System_on_a_chip,NeoMagic
+Cyrix,System_on_a_chip,NeoMagic
+Telechips,System_on_a_chip,NeoMagic
+TSMC,System_on_a_chip,NeoMagic
+Intel,System_on_a_chip,NeoMagic
+Microsemi,System_on_a_chip,NeoMagic
+NeoMagic,System_on_a_chip,NeoMagic
+NxStage,System_on_a_chip,NeoMagic

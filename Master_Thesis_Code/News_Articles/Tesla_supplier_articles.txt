@@ -1,0 +1,295 @@
+Title: CATL outs first fast charging LFP battery for cold weather but it's unclear if Tesla Model 3 or Model Y get it
+Full Content: The world's biggest EV battery maker CATL took to the stage today to announce the world's first 4C fast charging LFP battery driven by innovations in "materials, structure, and system," rather than some pie-in-the-sky chemistry breakthrough. 
+The battery, of the type and iron phosphate chemistry that CATL supplies to Tesla for its base Model 3 and Model Y vehicles, can add 400km (~250 miles) of range in just 10 minutes of taking them from 20%-80% on a fast charger. CATL reminds that fast charging has so far been reserved for higher-end EVs, while its new invention will bring the experience downmarket to cheaper electric cars that more people can afford. 
+Besides the first of its kind 4C charging rate for an LFP battery, meaning that theoretically it can be fully charged in 15 minutes, the new ShenXing battery is much better performing in cold weather. CATL said in the announcement keynote that even at subzero temperatures the LFP cells can be pumped up to 80% in 30 minutes without any issues. 
+This is a very significant achievement for an iron phosphate battery, and removes one of the last disadvantages of the chemistry before nickel batteries, as per Elon Musk:
+LFP batteries charge more slowly in cold weather than NCA batteries and their range decreases somewhat more than NCA batteries in cold weather. Keep in mind that both NCA and LFP do worse in cold weather. It's just that LFP batteries get more of a cold weather effect than NCA batteries. When you're on a road trip and navigating to a Supercharger, your car will prewarm its batteries. That will alleviate the slower charging problem to some extent, but you'll be at the Supercharger six or seven minutes longer in winter with LFP batteries. That will be a problem if you plan to use your car in such a way as to need to do lots of cold weather supercharging. It won't matter at all if you're just going to charge your car overnight in your garage.
+The energy density of the new LFP cells with high-conductivity electrolyte allows for up to 700km (438 miles) on a charge, CATL added. That is probably at the overly generous for the US driving conditions Chinese cycle, though. It typically falls about a third short of the EPA estimates, so a Model 3 or Model Y equipped with the ShenXing LFP pack would likely be good for a 300-mile range at the most. 
+As is its habit, CATL perfected an existing technology, rather than strive for a lab prototype that can't be produced at scale. When approached by NIO to develop a semi-solid state battery with 600+ miles of range, for instance, it reportedly declined because it had too many customers and orders lined up to afford wasting R&D resources on a niche product. NIO then turned to the startup WeLion and developed the battery, but it is currently so expensive to manufacture that NIO may only rent it for longer summer trips, somewhat justifying CATL's decision at the time. 
+There are still chemistry innovations in CATL's record breaking 4C LFP battery, though, such as the nano-crystallized cathode material, or the second generation fast ion ring that collectively add to the ultrahigh conductivity of the system. Moreover, CATL says that the "multi-gradient layered electrode design helps strike a perfect balance between fast charging and long range." 
+It remains to be heard if or when the Tesla Model 3 or Model Y that use CATL's LFP batteries will be upgraded to the ShenXing generation. CATL says that its new cells will enter mass production by the end of the year and there will be vehicles on the market with 4C fast charging LFP batteries in early 2024. 
+Mum's the word about Tesla as an eventual client, though, despite that the automaker warned it may partially lose the new EV tax credit next year on account of the share of Chinese batteries that go into its vehicles.  
+Get the ChargePoint 50A Home Flex EV Charger on Amazon
+CATL via CNEVPost
+Top 10 LaptopsMultimedia, Budget Multimedia, Gaming, Budget Gaming, Lightweight Gaming, Business, Budget Office, Workstation, Subnotebooks, Ultrabooks, Chromebooks 
+under 300 USD/Euros, under 500 USD/Euros, 1,000 USD/Euros, for University Students, Best Displays
+Top 10 SmartphonesSmartphones, Phablets, ≤6-inch, Camera Smartphones
+URL: https://www.notebookcheck.net/CATL-outs-first-fast-charging-LFP-battery-for-cold-weather-but-it-s-unclear-if-Tesla-Model-3-or-Model-Y-get-it.741627.0.html
+--------------------------------------------------
+Title: The little-known Vietnamese electric vehicle maker that’s now valued at more than Ford or GM
+Full Content: Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+EV maker, which has been in losses, opened at $22 but closed above $37 each in first day of trading
+Find your bookmarks in your Independent Premium section, under my profile
+Electric Carmaker-North Carolina
+Vietnamese electric vehicle (EV) manufacturer VinFast made an eye-popping debut on Nasdaq with its stock market valuation soaring above giants such as Ford and General Motors (GM) on its first day of trading.
+The EV maker, which has been in losses so far, opened at $22 (£17) but closed above $37 (£29) each in its first day of trading, surging its market valuation to a staggering $85bn (£66bn) – much higher than Ford’s $48bn and GM’s $46bn.
+The company's shares skyrocketed following its $23bn (£18bn) backdoor listing, after the startup merged with a special purpose vehicle. The company said it intends to raise funds from global investors in the next 18 months.
+“We have a number of strategic investors and institutional investors lined up. We expect to formulate some kind of capital raising over the next 18 months, for sure,” VinFast chief financial officer David Mansfield told Reuters.
+About $185m (£143m) worth of the company’s shares were exchanged, according to Refinitiv data. 
+The eye-popping listing has also soared chairman Pham Nhat Vuong’s net worth by a remarkable $39bn. Mr Vuong, Vietnam’s richest man, established VinFast in 2017, headquartered in Singapore, and the company is part of his conglomerate organisation Vingroup, one of the largest private conglomerates in Vietnam. 
+He is the beneficial owner of 99 per cent of VinFast‘s 2.3 billion ordinary shares after the merger through his flagship company and affiliates. Now, he aims to take on the industry leader Tesla with his ambitious plans for VinFast’s future. 
+“We have a number of strategic investors and institutional investors lined up. We expect to formulate some kind of capital raising over the next 18 months, for sure,” VinFast chief financial officer David Mansfield said.
+Initially, the company received a lukewarm response from the North American market after only 137 VinFast EVs were registered until June despite the company shipping nearly 3,000 vehicles into the market since late last year, according to S&P Global Mobility.
+However, with a $4bn factory under construction and a fresh approach to sales strategies, VinFast aims to compete on the global stage in the electric vehicle market.
+VinFast CEO Le Thi Thu Thuy said the company was changing its distribution model, which had been based on Tesla’s direct-to-consumer approach, and expected to partner with dealers in overseas markets.
+“We are switching to a hybrid model where we have our own showrooms, as well as talking to dealers to open dealer showrooms,” Mr Thuy told Reuters.
+VinFast is stepping into the American and European EV markets at a time when pricing pressures are being exerted by leading industry player Tesla and various Chinese companies.
+Mr Thuy said VinFast expected to bring its larger VF9 EV to the US market toward the end of the year and was in the process of getting its cars certified by Europe’s safety regulator.
+The company, originally a part of Vietnam’s largest conglomerate Vingroup, has attracted significant investment from Vuong, Vingroup, and affiliated entities, amounting to $9.3bn, according to a June filing.
+Additional reporting by agencies
+Join thought-provoking conversations, follow other Independent readers and see their replies
+Electric Carmaker-North Carolina
+AP
+Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.
+Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+Log in
+New to The Independent?
+Or if you would prefer:
+Want an ad-free experience?
+
+URL: https://www.independent.co.uk/news/business/news/vinfast-nasdaq-listing-ford-general-motors-b2393979.html
+--------------------------------------------------
+Title: VinFast’s shares surge in Nasdaq debut for Vietnam EV maker
+Full Content: 
+SUMMARY
+This is AI generated summarization, which may have errors. For context, always refer to the full article.
+
+						VINFAST. A VinFast VF 8 model is seen during a car delivery ceremony at the VinFast car factory in Haiphong province, Vietnam, September 10, 2022.					
+
+						Thinh Nguyen/Reuters					
+VinFast’s shares soared in thin trading in their Nasdaq debut on Tuesday, August 15, following the Vietnamese electric vehicle maker’s $23-billion backdoor listing as the startup said it was likely to raise money from global investors within 18 months.
+The stock opened at $22, more than double the $10 per share agreed with VinFast’s special purpose acquisition company (SPAC) partner Black Spade Acquisition that had valued VinFast at $23 billion.
+It surged further during the session, ending at $37.06 and valuing the EV maker, which has not posted a profit, at $85 billion, more than Ford’s market capitalization at $48 billion and General Motors’ $46-billion stock market value.
+About $185 million worth of the company’s shares were exchanged, according to Refinitiv data.
+The merger with the SPAC gave VinFast a listing in a market where founder Pham Nhat Vuong hopes to take on industry leader Tesla with a $4-billion factory under construction and a new approach to sales to bring in dealers.
+Vietnam’s richest man, Vuong is the beneficial owner of 99% of VinFast’s 2.3 billion ordinary shares after the merger through his flagship company and affiliates.
+“We have a number of strategic investors and institutional investors lined up. We expect to formulate some kind of capital raising over the next 18 months, for sure,” VinFast chief financial officer David Mansfield told Reuters.
+VinFast has shipped nearly 3,000 vehicles to North America since late last year, but initial sales have been slow. S&P Global Mobility says that only 137 VinFast EVs had been registered in the United States through June.
+“The Street has all its eyes on the leaders in this next frontier with many winners, along with Tesla, in this green EV tidal wave playing out for the coming years,” Wedbush Securities analyst Dan Ives said.
+VinFast chief executive officer Le Thi Thu Thuy said the company was changing its distribution model, which had been based on Tesla’s direct-to-consumer approach, and expected to partner with dealers in overseas markets.
+“We are switching to a hybrid model where we have our own showrooms, as well as talking to dealers to open dealer showrooms,” Thuy said in an interview with Reuters.
+VinFast was formed as a unit of Vietnam’s largest conglomerate Vingroup. Vuong, Vingroup, and affiliates had invested $9.3 billion in the EV maker, according to a June filing. Vuong pledged $2.5 billion in April to bolster the EV maker, including $1 billion from his personal fortune.
+VinFast’s first-quarter revenue dropped 49% from the previous year, and it posted a net loss of $598 million. In 2022, the company posted a loss of $2.1 billion.
+It has started construction on a $4-billion plant in North Carolina.
+VinFast is entering the American and European markets at a time when EV pricing is under pressure, led by market leader Tesla and a range of Chinese companies.
+VinFast’s VF8 starts at $46,000 in California, compared with $47,740 for the Tesla Model Y before accounting for a $7,500 federal tax credit on the Tesla.
+Thuy said VinFast was moving toward “cost reduction in the future.”
+Thuy said VinFast expected to bring its larger VF9 EV to the US market toward the end of the year and was in the process of getting its cars certified by Europe’s safety regulator. – Rappler.com
+
+Error.
+
+
+
+			Please abide by Rappler's commenting guidelines.
+		
+
+		There are no comments yet. Add your comment to start the conversation.	
+JOIN OUR NEWSLETTER
+Fearless reporting delivered to you
+follow us
+
+
+
+URL: https://www.rappler.com/business/vietnam-electric-vehicle-maker-vinfast-shares-nasdaq-debut-august-15-2023/
+--------------------------------------------------
+Title: India asks Tesla to follow Apple’s example in its electric cars plan
+Full Content: It is almost impossible to separate the government from tech advancement. This is because any new tech that is to enter the market must go through government approvals. This is what Tesla is currently facing in the Indian region. Tesla has been in touch with the Indian government over its plan to build a local factory in India. According to Tesla, when the project is ready, it will produce cheap electric cars for local sales and exports. Inside EVs reports that the cheapest Tesla car at the moment is the Model 3 Rear-Wheel Drive. The starting price of this car at the moment is $42,990. However, Reuters reports that when the Indian factory is ready, Tesla will produce cars worth $24,000. Nevertheless, the Indian government has its request.
+
+Tesla told the Indian government that it wants its Chinese partners to supply relevant parts for the cars. However, the Indian government’s request is that Tesla’s Chinese supplier must partner with an Indian brand.
+CNN reports that the Narendra Modi government is determined to tame Chinese brands who now rule the tech space in India. Quartz also reports that Chinese companies like Oppo, Vivo, and Xiaomi have been asked to find local Indian partners if they want to stay in the Indian market. Modi said that this is a new standard that India wants to set. In an interview, Modi said that India can not sit back and watch Chinese brands take over the Indian tech space. Thus, the request for Tesla’s Chinese suppliers to partner with Indian brands is not specific to Tesla. Other Chinese brands in India are doing the same thing.
+Modi claims that this request is for the betterment of Indians as they will have access to more jobs and a better livelihood. However, Abishur Prakash, a geopolitical futurist and co-founder of Center for Innovating the Future, a consulting firm that works on technology and geopolitics does not think the same. He claims that India is trying to push out Chinese tech firms with this requirement. Prakash said
+“As India pushes out Chinese tech, a chaotic business landscape is emerging. Now, everything that Chinese tech firms have bet on to succeed in the Indian market is being picked apart,”
+A BBC report claims that Tesla is all set to enter the Indian EV market. It only has to meet up with a few government policies. Thus, Tesla is facing very little or no challenge in entering the Indian EV market. It only has to satisfy the policies of the Indian government.
+If Tesla aims to build a factory in India and produce cheap electric cars, Chinese brands of EV parts could play a vital role. According to Al Jazeera, India has a few local suppliers for major electric parts like batteries. However, Reuters claims that most of India’s electric car parts are imported from China. Even India’s leading electric car brand, Tata Motors, imports batteries from China. Nevertheless, Tesla will have to find local brands to partner.
+According to three Indian officials who were present at the meeting, Tesla executives expressed their desire for certain suppliers from China to build a local base in India. The aim of this is to ensure that the supply chain is smooth and there is no need to import. However, Indian officials said Tesla can take a cue from Apple and allow Chinese brands to team up with local brands in India. This would enable Tesla’s Chinese brands to enter the Indian market by forming joint ventures with Indian brands.
+Apple currently has a fast – growing local supply chain in India with the likes of Foxconn, which assembles iPhones. Reuters claims a source said India is approving a joint venture of brands between Chinese and Indian brands. The source claims that the government is dealing with the request case by case and it has been on it in recent months. Another source with direct knowledge of Tesla’s talks in India said Tesla was looking for a supply chain partner for the Indian factory. An Indian official said that for Tesla, a joint venture between a local company and a Chinese brand is feasible.
+“Tesla has been asking for a separate ecosystem for their suppliers…if there is a local Indian joint venture partner, it can be approved on a case-by-case basis,” the Indian official said.
+
+With Tesla’s entry into the Indian market, there are a few Indian brands that the company could partner with. Here are some Indian brands that Tesla could partner with:
+Tata Motors is India’s largest car brand and has a huge presence in the electric car market. The company has already partnered with several global car makers, including Jaguar Land Rover. Also, it has a strong network of suppliers across India. Tata Motors could be an ideal partner for Tesla and it could use Tata’s supply chain in the Indian market.
+Mahindra Electric is a subsidiary of Mahindra & Mahindra, one of India’s largest conglomerates. The company has been making electric cars in India since 2013 and has a range of electric cars. Mahindra Electric has also developed a network of charging stations across India, which could be useful for Tesla’s entry into the Indian market.
+Hero Electric is one of India’s leading electric two-wheeler brands and has a range of electric scooters and bikes. The company has a strong supply network across India and could be a good partner for Tesla to expand its reach in the Indian market.
+Amara Raja Battery is one of India’s largest battery brands. This company supplies batteries to several global car makers. The company also has a strong focus on R&D and has been developing Li-ion batteries for electric cars. Amara Raja Battery could be an ideal partner for Tesla to source batteries for its electric cars in India.
+By taking a cue from Apple and linking with local Indian brands, Tesla can make a way in India and succeed. Nikkei Asia reports that India is a large and growing market for electric cars, and Tesla’s entry into the market could help to boost the use of electric cars in the country. Reuters stated that if Tesla partners with local brands in India, it could reduce costs and boost efficiency. This could help the company to offer decent pricing for its cars in India.
+India has asked Tesla to follow Apple’s example in finding local firms to partner with on any plan to build a supply chain plant in India. In addition to lower costs, the deal with local brands will give Tesla easier access to local markets. This is what Apple has been doing in India and it has been working for the company.
+For readers who may want to know the pros and cons of Indian and Chinese brands collaborating to supply Tesla, here are some possible pros and cons.
+1. Since the venture will be between brands from two nations, the government of both nations will have to approve the deal. This brings in a political arm to the deal which could be a bottleneck as we have seen in recent times.
+2. China and India have different cultures and languages. Thus, they may be an issue in communication and this could affect the flow of agreement between brands.
+3. If Indian and Chinese brands will have to be partners, this means that they have to share knowledge, tech and even their intellectual property. This can be a huge issue because both brands will have to ensure that there is equity and fairness. Also, China and India have different legal frameworks and this could make it even more difficult.
+4. The brands will have to ensure that their partners meet certain standards before they can agree on a deal. This could be a huge issue mostly if one of the brands has a very high standard.
+1. Chinese and Indian brands can bring their respective expertise, technologies, and resources to the joint venture. This collaboration can lead to knowledge sharing, innovation, and cost efficiencies which will boost innovation.
+2. By forming joint ventures, Chinese and Indian brands can expand their market reach and tap into new opportunities. The partnership can help both parties gain access to Tesla’s factory in India and leverage its brand recognition and market presence.
+3. Joint ventures allow companies to diversify their operations and reduce reliance on single sources. By collaborating with partners from different countries, brands can mitigate geopolitical risks and minimize over-reliance on specific markets or suppliers.
+4. The Indian government has been actively promoting the electric vehicle industry and offering incentives to attract foreign investment. Joint ventures between Chinese and Indian brands may be eligible for government support, subsidies, and tax benefits, which can enhance the viability and profitability of the partnership.
+India’s electric vehicle (EV) market is growing, with the government launching schemes and incentives to promote electric mobility in the country. However, CNBC claims that the EV space in India is still at a nascent stage. IEA believes that the country offers the world’s largest untapped market, especially in the two-wheeler segment, and 100% foreign direct investment is allowed in this sector under the automatic route. Indian Briefing projects that by 2030, the EV industry is set to create 10 million direct jobs and 50 million indirect jobs. Tesla has probably read about the huge potential of India in the EV space and being a world leader in the EV market, Tesla will have a lot to offer.
+The article clearly states that the partnership is for Tesla’s Chinese supply chain. How does this work? Any Chinese company that supplies Tesla can not just set up their plant in India. They have to collaborate with an Indian company. This is how it will work and it is the request of the Indian government. The Indian government’s requirement is VERY CLEAR, SHORT AND CONCISE. Thus, it does not need any more specific information or interpretation. 
+ The article also makes it clear that Tesla wants its Chinese suppliers to build a local base in India so as to make it easier to get the components that it needs to build cheap cars in India. This article does not need to discuss the implications of Tesla’s entry into the Indian market or the issues it will face. The focus of the article is on the Indian government’s request to Tesla with regard to its Chinese suppliers. Thus, discussing the implication of Tesla’s entry into the Indian market, how it affects the local EV industry or the issues that Tesla may face when trying to sell cheaper cars is a huge deviation from the focus of the article. 
+Efe Udin, a government tech policy expert is a seasoned tech writer with over seven years of tech writing experience. Efe's true passion lies in exploring the intersection of technology, politics, and brand feuds.
+
+With an astute understanding of the power dynamics and competitive landscape within the tech world, Efe delves into the intricacies of how technology influences political discourse and how brand rivalries shape the industry.
+
+
+
+GizChina
+Follow @gizchina
+
+
+
+Accredited technology blog dedicated to providing breaking news, expert reviews and original content related to mobile tech and EV industry, smartphones, gadgets and IoT.
+Keep up to date with the latest Android phone news and reviews on our social media channels:
+URL: https://www.gizchina.com/2023/08/02/indian-government-tesla-apple-example/
+--------------------------------------------------
+Title: India asks Tesla to follow Apple’s example – its Chinese suppliers must partner with Indian brands
+Full Content: It is almost impossible to separate the government from tech advancement. This is because any new tech that is to enter the market must go through government approvals. This is what Tesla is currently facing in the Indian region. Tesla has been in touch with the Indian government over its plan to build a local factory in India. According to Tesla, when the project is ready, it will produce cheap electric cars for local sales and exports. Inside EVs reports that the cheapest Tesla car at the moment is the Model 3 Rear-Wheel Drive. The starting price of this car at the moment is $42,990. However, Reuters reports that when the Indian factory is ready, Tesla will produce cars worth $24,000. Nevertheless, the Indian government has its request.
+
+Tesla told the Indian government that it wants its Chinese partners to supply relevant parts for the cars. However, the Indian government’s request is that Tesla’s Chinese supplier must partner with an Indian brand.
+CNN reports that the Narendra Modi government is determined to tame Chinese brands who now rule the tech space in India. Quartz also reports that Chinese companies like Oppo, Vivo, and Xiaomi have been asked to find local Indian partners if they want to stay in the Indian market. Modi said that this is a new standard that India wants to set. In an interview, Modi said that India can not sit back and watch Chinese brands take over the Indian tech space. Thus, the request for Tesla’s Chinese suppliers to partner with Indian brands is not specific to Tesla. Other Chinese brands in India are doing the same thing.
+Modi claims that this request is for the betterment of Indians as they will have access to more jobs and a better livelihood. However, Abishur Prakash, a geopolitical futurist and co-founder of Center for Innovating the Future, a consulting firm that works on technology and geopolitics does not think the same. He claims that India is trying to push out Chinese tech firms with this requirement. Prakash said
+“As India pushes out Chinese tech, a chaotic business landscape is emerging. Now, everything that Chinese tech firms have bet on to succeed in the Indian market is being picked apart,”
+A BBC report claims that Tesla is all set to enter the Indian EV market. It only has to meet up with a few government policies. Thus, Tesla is facing very little or no challenge in entering the Indian EV market. It only has to satisfy the policies of the Indian government.
+If Tesla aims to build a factory in India and produce cheap electric cars, Chinese brands of EV parts could play a vital role. According to Al Jazeera, India has a few local suppliers for major electric parts like batteries. However, Reuters claims that most of India’s electric car parts are imported from China. Even India’s leading electric car brand, Tata Motors, imports batteries from China. Nevertheless, Tesla will have to find local brands to partner.
+According to three Indian officials who were present at the meeting, Tesla executives expressed their desire for certain suppliers from China to build a local base in India. The aim of this is to ensure that the supply chain is smooth and there is no need to import. However, Indian officials said Tesla can take a cue from Apple and allow Chinese brands to team up with local brands in India. This would enable Tesla’s Chinese brands to enter the Indian market by forming joint ventures with Indian brands.
+Apple currently has a fast – growing local supply chain in India with the likes of Foxconn, which assembles iPhones. Reuters claims a source said India is approving a joint venture of brands between Chinese and Indian brands. The source claims that the government is dealing with the request case by case and it has been on it in recent months. Another source with direct knowledge of Tesla’s talks in India said Tesla was looking for a supply chain partner for the Indian factory. An Indian official said that for Tesla, a joint venture between a local company and a Chinese brand is feasible.
+“Tesla has been asking for a separate ecosystem for their suppliers…if there is a local Indian joint venture partner, it can be approved on a case-by-case basis,” the Indian official said.
+
+With Tesla’s entry into the Indian market, there are a few Indian brands that the company could partner with. Here are some Indian brands that Tesla could partner with:
+Tata Motors is India’s largest car brand and has a huge presence in the electric car market. The company has already partnered with several global car makers, including Jaguar Land Rover. Also, it has a strong network of suppliers across India. Tata Motors could be an ideal partner for Tesla and it could use Tata’s supply chain in the Indian market.
+Mahindra Electric is a subsidiary of Mahindra & Mahindra, one of India’s largest conglomerates. The company has been making electric cars in India since 2013 and has a range of electric cars. Mahindra Electric has also developed a network of charging stations across India, which could be useful for Tesla’s entry into the Indian market.
+Hero Electric is one of India’s leading electric two-wheeler brands and has a range of electric scooters and bikes. The company has a strong supply network across India and could be a good partner for Tesla to expand its reach in the Indian market.
+Amara Raja Battery is one of India’s largest battery brands. This company supplies batteries to several global car makers. The company also has a strong focus on R&D and has been developing Li-ion batteries for electric cars. Amara Raja Battery could be an ideal partner for Tesla to source batteries for its electric cars in India.
+By taking a cue from Apple and linking with local Indian brands, Tesla can make a way in India and succeed. Nikkei Asia reports that India is a large and growing market for electric cars, and Tesla’s entry into the market could help to boost the use of electric cars in the country. Reuters stated that if Tesla partners with local brands in India, it could reduce costs and boost efficiency. This could help the company to offer decent pricing for its cars in India.
+India has asked Tesla to follow Apple’s example in finding local firms to partner with on any plan to build a supply chain plant in India. In addition to lower costs, the deal with local brands will give Tesla easier access to local markets. This is what Apple has been doing in India and it has been working for the company.
+For readers who may want to know the pros and cons of Indian and Chinese brands collaborating to supply Tesla, here are some possible pros and cons.
+1. Since the venture will be between brands from two nations, the government of both nations will have to approve the deal. This brings in a political arm to the deal which could be a bottleneck as we have seen in recent times.
+2. China and India have different cultures and languages. Thus, they may be an issue in communication and this could affect the flow of agreement between brands.
+3. If Indian and Chinese brands will have to be partners, this means that they have to share knowledge, tech and even their intellectual property. This can be a huge issue because both brands will have to ensure that there is equity and fairness. Also, China and India have different legal frameworks and this could make it even more difficult.
+4. The brands will have to ensure that their partners meet certain standards before they can agree on a deal. This could be a huge issue mostly if one of the brands has a very high standard.
+1. Chinese and Indian brands can bring their respective expertise, technologies, and resources to the joint venture. This collaboration can lead to knowledge sharing, innovation, and cost efficiencies which will boost innovation.
+2. By forming joint ventures, Chinese and Indian brands can expand their market reach and tap into new opportunities. The partnership can help both parties gain access to Tesla’s factory in India and leverage its brand recognition and market presence.
+3. Joint ventures allow companies to diversify their operations and reduce reliance on single sources. By collaborating with partners from different countries, brands can mitigate geopolitical risks and minimize over-reliance on specific markets or suppliers.
+4. The Indian government has been actively promoting the electric vehicle industry and offering incentives to attract foreign investment. Joint ventures between Chinese and Indian brands may be eligible for government support, subsidies, and tax benefits, which can enhance the viability and profitability of the partnership.
+India’s electric vehicle (EV) market is growing, with the government launching schemes and incentives to promote electric mobility in the country. However, CNBC claims that the EV space in India is still at a nascent stage. IEA believes that the country offers the world’s largest untapped market, especially in the two-wheeler segment, and 100% foreign direct investment is allowed in this sector under the automatic route. Indian Briefing projects that by 2030, the EV industry is set to create 10 million direct jobs and 50 million indirect jobs. Tesla has probably read about the huge potential of India in the EV space and being a world leader in the EV market, Tesla will have a lot to offer.
+The article clearly states that the partnership is for Tesla’s Chinese supply chain. How does this work? Any Chinese company that supplies Tesla can not just set up their plant in India. They have to collaborate with an Indian company. This is how it will work and it is the request of the Indian government. The Indian government’s requirement is VERY CLEAR, SHORT AND CONCISE. Thus, it does not need any more specific information or interpretation. 
+ The article also makes it clear that Tesla wants its Chinese suppliers to build a local base in India so as to make it easier to get the components that it needs to build cheap cars in India. This article does not need to discuss the implications of Tesla’s entry into the Indian market or the issues it will face. The focus of the article is on the Indian government’s request to Tesla with regard to its Chinese suppliers. Thus, discussing the implication of Tesla’s entry into the Indian market, how it affects the local EV industry or the issues that Tesla may face when trying to sell cheaper cars is a huge deviation from the focus of the article. 
+Efe Udin, a government tech policy expert is a seasoned tech writer with over seven years of tech writing experience. Efe's true passion lies in exploring the intersection of technology, politics, and brand feuds.
+
+With an astute understanding of the power dynamics and competitive landscape within the tech world, Efe delves into the intricacies of how technology influences political discourse and how brand rivalries shape the industry.
+
+
+
+GizChina
+Follow @gizchina
+
+
+
+Accredited technology blog dedicated to providing breaking news, expert reviews and original content related to mobile tech and EV industry, smartphones, gadgets and IoT.
+Keep up to date with the latest Android phone news and reviews on our social media channels:
+URL: https://www.gizchina.com/2023/08/02/indian-government-tesla-apple-example-electric-cars/
+--------------------------------------------------
+Title: Apple's Blueprint: Indian Government Suggests Tesla Adopt Similar Strategy For Chinese Suppliers
+Full Content: 
+        This story was first published on the Benzinga India portal.Indian government officials suggested Tesla Inc (NASDAQ: TSLA) – currently discussing setting up a plant in India – partner with local firms to work with any Chinese suppliers the electric carmaker is currently involved with.What Happened? Officials from Tesla told the Indian government that they’d like some of…
+    
+
+#benzingaindia#teslainc#tesla#appleincs#himalayan#tatamotors#byd#appleblueprint 
+URL: https://biztoc.com/x/ff83c9b72b731aa8
+--------------------------------------------------
+Title: Apple's Blueprint: Indian Government Suggests Tesla Adopt Similar Strategy For Chinese Suppliers
+Full Content: This story was first published on the Benzinga India portal.
+Indian government officials suggested Tesla Inc (NASDAQ: TSLA) – currently discussing setting up a plant in India – partner with local firms to work with any Chinese suppliers the electric carmaker is currently involved with.
+What Happened? Officials from Tesla told the Indian government that they’d like some of their Chinese suppliers to establish operations in India to bolster the supply chain.
+According to sources speaking to Reuters, Indian authorities proposed that Tesla adopt Apple Inc’s (NASDAQ: AAPL) method, which involved gaining approvals for Chinese suppliers through local joint-venture partners. Direct approval for wholly-owned Chinese companies can prove challenging due to the intense scrutiny they’ve faced since the 2020 border disputes between India and China on their Himalayan border.
+Why it matters? India’s tense relationship with China, following the 2020 border clashes, complicates Tesla’s plans to utilize crucial Chinese suppliers for parts that India lacks locally. This problem isn’t unique to Tesla; even the local Tata Motors sources battery cells from China.
+In recent months, the Indian government has accepted some joint-venture partnerships between Chinese suppliers and Indian firms on a case-by-case basis. However, they remain cautious about Chinese companies expanding in India, particularly automakers.
+Chinese car manufacturer BYD recently dropped a $1 billion investment plan for electric vehicles in India due to stringent scrutiny.
+Read next: BYD in Hot Water Over Alleged Tax Underpayment in India: Report
+Don't miss real-time alerts on your stocks - join Benzinga Pro for free! Try the tool that will help you invest smarter, faster, and better.
+This article Apple's Blueprint: Indian Government Suggests Tesla Adopt Similar Strategy For Chinese Suppliers originally appeared on Benzinga.com
+.
+© 2023 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+URL: https://finance.yahoo.com/news/apples-blueprint-indian-government-suggests-075115445.html
+--------------------------------------------------
+Title: Apple's Blueprint: Indian Government Suggests Tesla Adopt Similar Strategy For Chinese Suppliers
+Full Content: 
+        This story was first published on the Benzinga India portal.Indian government officials suggested Tesla Inc TSLA – currently discussing setting up a plant in India – partner with local firms to work with any Chinese suppliers the electric carmaker is currently involved with.What Happened? Officials from Tesla told the Indian government that they’d like some of their Chinese…
+    
+
+#benzingaindia#teslainctsla#tesla#appleincs#himalayan#tatamotors#byd 
+URL: https://biztoc.com/x/64c9a875b4bb6548
+--------------------------------------------------
+Title: Tesla Asked to Copy Apple in Pairing Chinese, Indian Suppliers for EV Plant
+Full Content: Photo Credit: Reuters
+India does not have local suppliers for components such as battery cells
+As Tesla examines building a plant in India, officials have asked the company to emulate Apple in finding local firms to partner with any Chinese suppliers involved, according to three government sources with direct knowledge of the matter.
+Tesla has been in talks with India for weeks about setting up a factory which will potentially build a $24,000 (roughly Rs. 20 lakh) car for local sales and exports, however strained India-China ties threaten to complicate Tesla's plans for bringing in Chinese suppliers.
+Tesla founder Elon Musk is seeking to expand beyond the company's biggest foreign base of China where regulatory approvals for expansion are slow to come.
+But Chinese suppliers could be critical if Tesla were to establish a plant in India and keep costs in check for a cheap EV. India does not have local suppliers for components such as battery cells, with even India's largest EV maker, Tata Motors, importing them from China.
+In meetings with officials in New Delhi, Tesla executives informed the Indian government that it would like to have some of its vendors from China set up base locally to boost its supply chain, three Indian officials with direct knowledge of talks said.
+In response, officials told Tesla that granting approvals for wholly-owned Chinese companies in India could be difficult due to intense scrutiny of Chinese firms since a 2020 border clash between the two countries.
+Instead, the Indian officials said they had suggested a workaround in which Tesla would emulate the approach of Apple. The US smartphone giant in recent months has obtained approvals to bring Chinese suppliers to India after they found local joint-venture partners.
+Tesla, the spokesperson of the Indian government and the trade ministry did not respond to requests for comment.
+Apple has a fast-growing supply chain in India which includes Taiwan's Foxconn assembling its iPhones.
+New Delhi in recent months has been approving some Chinese suppliers' JV partnerships with Indian companies on a case-to-case basis, one of the government sources said.
+India remains hesitant about allowing Chinese companies, especially automakers, to expand in the country, however.
+Last month, China's BYD told its Indian partner it would shelve a new $1 billion (roughly Rs. 8,233 crore) investment plan to build EVs there after its investment proposal faced scrutiny from New Delhi.
+Without specifying Chinese vendors, a fourth source with direct knowledge of Tesla's discussions in India said the US company is looking at supply chain partners for its India factory.
+One of the Indian officials said pairing local and Chinese players could work for Tesla.
+"Tesla has been demanding a separate ecosystem for their (Chinese) vendor base ... those approvals can be granted on a case-to-case basis if there an Indian joint venture partner," the official said.
+© Thomson Reuters 2023
+For the latest tech news and reviews, follow Gadgets 360 on Twitter, Facebook, and Google News. For the latest videos on gadgets and tech, subscribe to our YouTube channel.
+Advertisement
+02:38 
+04:19 
+10:18 
+17:59 
+01:21 
+Advertisement
+URL: https://www.gadgets360.com/auto/news/tesla-ev-plant-india-copy-apple-pair-chinese-indian-suppliers-officials-4259731
+--------------------------------------------------
+Title: India Asks Tesla To Copy Apple In Pairing Chinese, Indian Suppliers: Report
+Full Content: One of the Indian officials said pairing local and Chinese players could work for Tesla.
+As Tesla examines building a plant in India, officials have asked the company to emulate Apple in finding local firms to partner with any Chinese suppliers involved, according to three government sources with direct knowledge of the matter.
+Tesla has been in talks with India for weeks about setting up a factory which will potentially build a $24,000 car for local sales and exports, however strained India-China ties threaten to complicate Tesla's plans for bringing in Chinese suppliers.
+Tesla founder Elon Musk is seeking to expand beyond the company's biggest foreign base of China where regulatory approvals for expansion are slow to come.
+
+But Chinese suppliers could be critical if Tesla were to establish a plant in India and keep costs in check for a cheap EV. India does not have local suppliers for components such as battery cells, with even India's largest EV maker, Tata Motors, importing them from China.
+In meetings with officials in New Delhi, Tesla executives informed the Indian government that it would like to have some of its vendors from China set up base locally to boost its supply chain, three Indian officials with direct knowledge of talks said.
+In response, officials told Tesla that granting approvals for wholly-owned Chinese companies in India could be difficult due to intense scrutiny of Chinese firms since a 2020 border clash between the two countries.
+Instead, the Indian officials said they had suggested a workaround in which Tesla would emulate the approach of Apple. The U.S. smartphone giant in recent months has obtained approvals to bring Chinese suppliers to India after they found local joint-venture partners.
+Tesla, the spokesperson of the Indian government and the trade ministry did not respond to requests for comment.
+Apple has a fast-growing supply chain in India which includes Taiwan's Foxconn assembling its iPhones.
+New Delhi in recent months has been approving some Chinese suppliers' JV partnerships with Indian companies on a case-to-case basis, one of the government sources said.
+India remains hesitant about allowing Chinese companies, especially automakers, to expand in the country, however.
+Last month, China's BYD told its Indian partner it would shelve a new $1 billion investment plan to build EVs there after its investment proposal faced scrutiny from New Delhi.
+Without specifying Chinese vendors, a fourth source with direct knowledge of Tesla's discussions in India said the U.S. company is looking at supply chain partners for its India factory.
+One of the Indian officials said pairing local and Chinese players could work for Tesla.
+PromotedListen to the latest songs, only on JioSaavn.com
+"Tesla has been demanding a separate ecosystem for their (Chinese) vendor base ... those approvals can be granted on a case-to-case basis if there an Indian joint venture partner," the official said.
+(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)
+Track Latest News Live on NDTV.com and get news updates from India  and around the world. 
+Watch Live News:
+Follow Us:
+................................ Advertisement ................................
+URL: https://www.ndtv.com/india-news/india-asks-tesla-to-copy-apple-in-pairing-chinese-indian-suppliers-report-4259492
+--------------------------------------------------
+Title: India asks Tesla to copy Apple in pairing Chinese, Indian suppliers -sources
+Full Content: By Nikunj Ohri, Shivangi Acharya and Aftab Ahmed
+NEW DELHI (Reuters) - As Tesla examines building a plant in India, officials have asked the company to emulate Apple in finding local firms to partner with any Chinese suppliers involved, according to three government sources with direct knowledge of the matter.
+Tesla has been in talks with India for weeks about setting up a factory which will potentially build a $24,000 car for local sales and exports, however strained India-China ties threaten to complicate Tesla's plans for bringing in Chinese suppliers.
+Tesla founder Elon Musk is seeking to expand beyond the company's biggest foreign base of China where regulatory approvals for expansion are slow to come.
+But Chinese suppliers could be critical if Tesla were to establish a plant in India and keep costs in check for a cheap EV. India does not have local suppliers for components such as battery cells, with even India's largest EV maker, Tata Motors, importing them from China.
+In meetings with officials in New Delhi, Tesla executives informed the Indian government that it would like to have some of its vendors from China set up base locally to boost its supply chain, three Indian officials with direct knowledge of talks said.
+In response, officials told Tesla that granting approvals for wholly-owned Chinese companies in India could be difficult due to intense scrutiny of Chinese firms since a 2020 border clash between the two countries.
+Instead, the Indian officials said they had suggested a workaround in which Tesla would emulate the approach of Apple. The U.S. smartphone giant in recent months has obtained approvals to bring Chinese suppliers to India after they found local joint-venture partners.
+Tesla, the spokesperson of the Indian government and the trade ministry did not respond to requests for comment.
+Apple has a fast-growing supply chain in India which includes Taiwan's Foxconn assembling its iPhones.
+New Delhi in recent months has been approving some Chinese suppliers' JV partnerships with Indian companies on a case-to-case basis, one of the government sources said.
+India remains hesitant about allowing Chinese companies, especially automakers, to expand in the country, however.
+Last month, China's BYD told its Indian partner it would shelve a new $1 billion investment plan to build EVs there after its investment proposal faced scrutiny from New Delhi.
+Without specifying Chinese vendors, a fourth source with direct knowledge of Tesla's discussions in India said the U.S. company is looking at supply chain partners for its India factory.
+One of the Indian officials said pairing local and Chinese players could work for Tesla.
+"Tesla has been demanding a separate ecosystem for their (Chinese) vendor base ... those approvals can be granted on a case-to-case basis if there an Indian joint venture partner," the official said.
+(Reporting by Nikunj Ohri and Shivangi Acharya and Nikunj Ohri; additional reporting by Aditi Shah; editing by Aditya Kalra and Jason Neely)
+Related Quotes
+URL: https://finance.yahoo.com/news/india-asks-tesla-copy-apple-120436222.html
+--------------------------------------------------

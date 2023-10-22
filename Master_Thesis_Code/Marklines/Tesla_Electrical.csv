@@ -1,0 +1,503 @@
+Region,Maker,Brand,Model,Model year,Supplier,Products,Component category,Category
+China,Tesla China,Tesla,Model 3 (4WD) (China),2023,"Sanden Shanghai Automotive Air-Conditioning Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+China,Tesla China,Tesla,Model 3 (4WD) (China),2023,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (4WD) (China),2023,"Zhejiang Yinlun Machinery Co., Ltd.",Water cooling parts for ADAS chip,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2023,"Sanden Shanghai Automotive Air-Conditioning Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2023,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2023,"Zhejiang Yinlun Machinery Co., Ltd.",Water cooling parts for ADAS chip,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2023,Seger Ses Ve Elektrikli Gerecler San. A. S.,Horn,Horn,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2023,Continental AG,Radar sensor,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2023,"Inteva Products, LLC",Front power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2023,Bosch [Robert Bosch GmbH],Front wiper motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2023,"Inteva Products, LLC",Rear power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2023,Continental AG,Tire pressure monitoring system ECU,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2023,"Wuhu Token Sciences Co., Ltd.",Central control screen module,Display,Electrical
+Americas,Tesla,Tesla,Model X (USA),2023,"Wuhu Token Sciences Co., Ltd.",Central control screen module,Display,Electrical
+China,Tesla China,Tesla,Model Y (4WD) (China),2023,"Sanden Shanghai Automotive Air-Conditioning Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+China,Tesla China,Tesla,Model Y (4WD) (China),2023,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (4WD) (China),2023,"Zhejiang Yinlun Machinery Co., Ltd.",Water cooling parts for ADAS chip,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2023,"Sanden Shanghai Automotive Air-Conditioning Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2023,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2023,"Zhejiang Yinlun Machinery Co., Ltd.",Water cooling parts for ADAS chip,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,Denso Thermal Systems S.p.A.,A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,"Brose North America, Inc.",Front power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,"Brose North America, Inc.",Rear power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,Preh Beteiligungs GmbH,Door release switch,Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,Preh Beteiligungs GmbH,Frunk switch,Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,Preh Beteiligungs GmbH,Liftgate switch,Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,Preh Beteiligungs GmbH,Multifunctional steering wheel switch,Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,Preh Beteiligungs GmbH,Seat dump switch,Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2023,Preh Beteiligungs GmbH,Window lift switch,Switch,Electrical
+China,Tesla China,Tesla,Model 3 (4WD) (China),2022,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (4WD) (China),2022,"Zhejiang Yinlun Machinery Co., Ltd.",Water cooling parts for ADAS chip,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Tesla,ADAS domain controller chip,Advanced Driver Assistance ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Tesla,Autopilot system,Advanced Driver Assistance ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,ON Semiconductor Corp.,Intelligent power module (IPM),Advanced Driver Assistance ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Renesas Electronics Corporation,MCU,Advanced Driver Assistance ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,STMicroelectronics N.V.,MCU,Advanced Driver Assistance ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Modine Manufacturing Company,A/C cooling system,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Air conditioning component,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Hanon Auto Parts (Shanghai) Co., Ltd.",Air conditioning system,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Anhui Tatfook Technology Co., Ltd. (Formerly Shenzhen Tatfook Technology Co., Ltd.)",Antenna RF components,Antenna,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,ON Semiconductor Corp.,Image sensor for triple front camera,Camera ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Harman Becker Automotive Systems GmbH,Audio amplifier,Car Audio,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"NavInfo Co., Ltd.",Navigation map,Car Navigation System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"BOE Technology Group Co., Ltd.",Center information display,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Wuxi Sharp Display Technology Co., Ltd.",Center information display,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Wuhu Token Sciences Co., Ltd.",Central control screen module,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Foxconn Interconnect Technology Limited,Digital meter display,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Cypress Semiconductor Corporation,Driver circuit for central control screen,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Corning Automotive Glass Solutions (Hefei) Co., Ltd.",Glass cover for central control screen,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,TPK Material Solutions (Xiamen) Inc.,Touch screen,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Shenzhen Laibao Hi-tech Co., Ltd. (Formerly Shenzhen Laibao Vacuum Technology Co., Ltd.)",Touch screen components,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Crystal Clear Electronic Material Co., Ltd. (Formerly Suzhou Crystal Clear Chemical Co., Ltd.)",Touch screen components,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Guangdong Chaohua Technology Co., Ltd.",Calendered copper foil for FPC,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Shenzhen Kinwong Electronic Co., Ltd.",Calendered copper foil for FPC,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Zhejiang Wazam New Materials Co., Ltd.(Formerly Zhejiang Huazheng Electronic Group Co., Ltd.)",Copper clad laminate for PCB,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Shengyi Technology Co., Ltd.",Copper clad laminate for PCB,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Goldenmax International Technology Ltd. (Formerly Shanghai Guoji Electronic Material Co., Ltd.)",Copper clad laminate for PCB,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Suzhou Dongshan Precision Manufacturing Co., Ltd.",Flexible printed circuit board (FPC),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Zhen Ding Technology Holding Limited,FPC for central control screen,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Mektec Corporation Kaohsiung Plant,FPC for central control screen,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,NXP Semiconductors N.V.,Milliwave radar controller chip,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Guangdong Chaohua Technology Co., Ltd.",Polyester film for FPC,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Guangdong Chaohua Technology Co., Ltd.",Polyimide film for FPC,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"WUS Printed Circuit (Kunshan) Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Guangdong Chaohua Technology Co., Ltd.",Special wood pulp paper for PCB,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Shenzhen Kinwong Electronic Co., Ltd.",Special wood pulp paper for PCB,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Texas Instruments Inc.,Traction motor controller chip,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Zhejiang Yinlun Machinery Co., Ltd.",Water cooling parts for ADAS chip,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Leopold Kostal GmbH & Co. KG,Steering column control module,Lever Combination Switch,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,NVIDIA Corporation,Virtual instrument cluster,Meter,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Continental AG,Long range radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Valeo Group,Milliwave radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Continental AG,Short range radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Delta Electronics (Thailand) Public Co., Ltd.",Blower motor,Motor / Actuator,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Shanghai Inteva Automotive Door Systems Co., Ltd. (Inteva SDADS)",Front power window motor,Motor / Actuator,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Bosch Automotive Products (Suzhou) Co., Ltd.",Front wiper motor,Motor / Actuator,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Shanghai Inteva Automotive Door Systems Co., Ltd. (Inteva SDADS)",Rear power window motor,Motor / Actuator,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Continental AG,Radar sensor control unit,Object Detection ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Mobileye Vision Technologies Ltd.,Front inline triple camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Mobileye (Shanghai) Automotive Service Co., Ltd.",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"LianChuang Electronic Technology Co., Ltd. (Formerly China-Hemp Industrial Investment Co., Ltd.)",On-board camera lens,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Tesla,Triple front camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Valeo Group,Ultrasonic sensor,Park Assist System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,"Suzhou Anjie Technology Co., Ltd.",Electric power steering ECU,Power Steering ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Bitron Industrie S.p.A.,Engine hood switch,Switch,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Shanghai Baolong Automotive Corporation,Tire pressure monitoring system,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2022,Shanghai Baolong Automotive Corporation,Tire pressure monitoring system ECU,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,Sanden Corporation (Formerly Sanden Holdings Corporation),A/C compressor pump,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,Robert Bosch Mexico SA de C.V.,Airbag ECU,Airbag ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,Freudenberg SE,Cabin air filter,Cabin Air Filter,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,Harman Becker Automotive Systems GmbH,Radio receiver,Car Audio,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,Seger Ses Ve Elektrikli Gerecler San. A. S.,Horn,Horn,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,Continental AG,Front radar sensor,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,"Inteva Products, LLC",Front power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,Bosch [Robert Bosch GmbH],Front wiper motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,"Inteva Products, LLC",Rear power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.),High-voltage DC relay,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,"Xi'an Sinofuse Electric Co., Ltd.",High-voltage fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2022,Continental AG,Tire pressure monitoring system ECU,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),Connector housing,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),Electrical connector,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Robert Bosch doo - Serbia,Front wiper motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Bussmann Asia-Pacific,Main fuse box,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),High-voltage wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Aptiv PLC (Formerly Delphi Automotive PLC),Low-voltage wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2022,Champlain Cable Corp.,Main wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2022,"Wuhu Token Sciences Co., Ltd.",Central control screen,Display,Electrical
+Americas,Tesla,Tesla,Model X (USA),2022,Valeo North America,Front wiper motor,Motor / Actuator,Electrical
+China,Tesla China,Tesla,Model Y (4WD) (China),2022,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (4WD) (China),2022,"Zhejiang Yinlun Machinery Co., Ltd.",Water cooling parts for ADAS chip,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (4WD) (China),2022,Advanced Micro Devices Inc.,Integrated cockpit domain controller,In-Vehicle Infotainment Unit,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.),FM amplifier,Antenna,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.),GPS antenna,Antenna,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Freudenberg SE,Cabin air filter,Cabin Air Filter,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Hirschmann Automotive GmbH,Connector housing,Electrical Connector,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Stocko Contact GmbH & Co. KG,Electrical connector,Electrical Connector,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Lumberg Connect GmbH,Electrical connector,Electrical Connector,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Lumberg Connect GmbH,High-voltage connector,Electrical Connector,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Gentherm Inc. (Formerly Amerigon Inc.),Heating element for steering wheel,Heater,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Gentherm Inc. (Formerly Amerigon Inc.),Seat heater,Heater,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Leopold Kostal GmbH & Co. KG,Steering column control module,Lever Combination Switch,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Preh GmbH,Door release switch,Switch,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Preh GmbH,Power window switch,Switch,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Preh GmbH,Steering wheel multifunction switch,Switch,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,Preh GmbH,Tailgate switch,Switch,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,MD ELEKTRONIK GmbH,Antenna wiring harness,Wiring Harness,Electrical
+Europe,Tesla,Tesla,Model Y (Germany),2022,MD ELEKTRONIK GmbH,Data cable,Wiring Harness,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2022,Tesla,ADAS domain controller chip,Advanced Driver Assistance ECU,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2022,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2022,"Zhejiang Yinlun Machinery Co., Ltd.",Water cooling parts for ADAS chip,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2022,Valeo Group,Milliwave radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2022,Mobileye Vision Technologies Ltd.,Front inline triple camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2022,Shanghai Baolong Automotive Corporation,Tire pressure monitoring system,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,Denso Thermal Systems S.p.A.,A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,Toyota Industries Corporation,Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,Leopold Kostal GmbH & Co. KG,Steering column control module,Lever Combination Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,"Brose North America, Inc.",Front power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,"Brose North America, Inc.",Rear power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,Bosch [Robert Bosch LLC],Steering column motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.),High-voltage DC relay,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,Preh GmbH,Frunk switch,Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,Preh GmbH,Seat dump switch,Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,Preh GmbH,Shoulder switch,Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2022,ACC ELCOM,High-voltage wiring harness,Wiring Harness,Electrical
+China,Tesla China,Tesla,Model 3 (4WD) (China),2021,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Nanjing Aotecar New Energy Technology Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Hanon Auto Parts (Shanghai) Co., Ltd.",Air conditioning system,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Nanjing Yunhai Special Metals Co., Ltd.",HVAC multiport extrusions tube,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Anhui Tatfook Technology Co., Ltd. (Formerly Shenzhen Tatfook Technology Co., Ltd.)",Antenna,Antenna,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"NavInfo Co., Ltd.",Navigation map,Car Navigation System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Suzhou Dongshan Precision Manufacturing Co., Ltd.",A/C condenser,Condenser,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Wuhu Token Sciences Co., Ltd.",Central control screen module,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Suzhou Current Power Technology Co., Ltd.",High-voltage connector,Electrical Connector,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,Ningbo Joyson Electronic Corporation,Circuit protection system,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Suzhou Dongshan Precision Manufacturing Co., Ltd.",Flexible printed circuit board (FPC),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Victory Giant Technology (HuiZhou) Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Olympic Circuit Technology Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"WUS Printed Circuit (Kunshan) Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,Tesla,System on a chip (SoC),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,Valeo Group,Milliwave radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,Continental AG,Milliwave Radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Yanfeng Adient Founder Motor Co., Ltd.",Seat motor,Motor / Actuator,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Mobileye (Shanghai) Automotive Service Co., Ltd.",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"LianChuang Electronic Technology Co., Ltd. (Formerly China-Hemp Industrial Investment Co., Ltd.)",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"LianChuang Electronic Technology Co., Ltd. (Formerly China-Hemp Industrial Investment Co., Ltd.)",On-board camera lens,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,Valeo Group (China),Ultrasonic sensor,Park Assist System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Suzhou Anjie Technology Co., Ltd.",Power steering ECU,Power Steering ECU,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.),High-voltage DC relay,Relay / Fuse,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Xiamen Hongfa Electroacoustic Co., Ltd.",High-voltage DC relay,Relay / Fuse,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,Shanghai Baolong Automotive Corporation,TPMS controller,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,Shanghai Baolong Automotive Corporation,TPMS transmitter,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,Shanghai Baolong Automotive Corporation,TPMS valve,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Far East Cable Co., Ltd.",High-voltage wiring harness,Wiring Harness,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2021,"Jiangsu Rixing Electronics Co., Ltd.",Rear view mirror wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Sanden Corporation (Formerly Sanden Holdings Corporation),A/C compressor pump,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Hanon Systems (Formerly Halla Visteon Climate Control),Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Quanta Computer Inc.,AD ECU,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Fraenkische Industrial Pipes Mexico S.A. de C.V.,Front cooling manifold tube,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Pegatron Corporation,HVAC sensor,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Robert Bosch Mexico SA de C.V.,Airbag ECU,Airbag ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Vodafone Automotive SpA,Car alarm,Anti-theft / Immobilizer,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Quanta Computer Inc.,Low-voltage controller,Body Control ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Quanta Computer Inc.,Audio external amplifier,Car Audio,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Harman Becker Automotive Systems GmbH,Radio receiver,Car Audio,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Premium Sound Solutions America LLC,Speaker,Car Audio,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,MAHLE Behr USA Inc.,A/C condenser,Condenser,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Lens International (HK) Ltd.,Center display assembly,Display,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Pegatron Corporation,USB hub,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Pegatron Corporation,Integrated ECU,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Quanta Computer Inc.,Trailer hitch ECU,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Seger Ses Ve Elektrikli Gerecler San. A. S.,Horn,Horn,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Luxshare Precision Industry Co., Ltd.",Center console inductive smartphone charger,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,BCS Automotive Interface Solutions GmbH (Formerly TRW Automotive Electronics & Components GmbH),Wireless smartphone charger,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Nissha USA, Inc.",NFC Keycard,Keyless Entry / Start System,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Continental AG,Front radar sensor,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bosch [Robert Bosch GmbH],Front wiper motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Inteva Products, LLC",Rear power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,"LG Innotek Co., Ltd.",Adjustable triple camera assembly,On-board Camera,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Primax Electronics Ltd.,Security camera,On-board Camera,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Valeo Group,Ultrasonic sensor,Park Assist System,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Quanta Computer Inc.,Power steering ECU,Power Steering ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bitron España,Brake pedal switch,Switch,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bitron Industrie S.p.A.,Driver seat switch,Switch,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Bitron Industrie S.p.A.,Liftgate switch,Switch,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Ningbo Preh Joyson Automotive Electronics Co., Ltd.",Power window switch,Switch,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Gentex Corporation,Garage door opener ECU,Telematics,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Pegatron Corporation,Telematics system,Telematics,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Preh GmbH,Cabin temperature sensor,Temperature Sensor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Continental AG,Tire pressure monitoring system ECU,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,Continental AG,TPMS sensor,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,"Ningbo Schlemmer Automotive Parts Co., Ltd.",High-voltage wiring harness busbar bracket,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,"BizLink Technology, Inc.",Penthouse wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2021,"BizLink Technology, Inc.",Trailer hitch wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Larsen Manufacturing LLC,Front subframe chiller bracket,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,ADAS ECU,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Marelli North America, Inc. - Shelbyville Plant (Formerly Calsonic Kansei North America, Inc.)",A/C cooling fan controller,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Mergon Corporation, USA",A/C duct adapter,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,HVAC sensor,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Fico Mirrors, S.A.",Bluetooth antenna,Antenna,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Pektron Inc,Body control ECU,Body Control ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Panasonic Automotive Systems Company of America,Radio,Car Audio,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Premium Sound Solutions America LLC,Speaker,Car Audio,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Touchscreen MCU,Display,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Pektron Inc,Door ECU,Door ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Foxconn Interconnect Technology Limited,Mobile connector right button,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Molex, LLC",USB media hub port,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,IC board assembly,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,MCU board,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Driver seat heater module,Heater,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Modus Advanced, Inc.",Horn front ducting gasket,Horn,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Wi-Fi USB hub,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Primax Electronics Ltd.,Wireless charger assembly,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,BCS Automotive Interface Solutions GmbH (Formerly TRW Automotive Electronics & Components GmbH),Wireless smartphone charger,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Ningbo Xusheng Auto Technology Co., Ltd.",3 phase high-voltage junction box for onboard charger,Junction Box,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",High-voltage junction box,Junction Box,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Premo Mediteranee S.A.R.L.,Low frequency coil,Keyless Entry / Start System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Pektron Inc,Smart key,Keyless Entry / Start System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Leopold Kostal GmbH & Co. KG,Steering column control module,Lever Combination Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Cluster,Meter,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front radar bracket,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Robert Bosch doo - Serbia,Front wiper motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"LG Innotek Co., Ltd.",Front inline triple camera,On-board Camera,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Metro Plastics Technologies, Inc.",Parking sensor bracket,Park Assist System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quanta Computer Inc.,Power seat ECU,Power Seat ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Mayser USA Inc.,Liftgate anti pinch sensor assembly,Power Tailgate / Trunk ECU,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Fuses Unlimited,12V battery fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Battery fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Fuses Unlimited,DC-DC converter fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Pegatron Corporation,eFuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Quickparts.com Inc.,eFuse cover,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Product and Tooling Technologies, Inc. (PT Tech)",High-voltage fuse bracket,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Fuses Unlimited,Onboard charger fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Methode Electronics, Inc.",Brake pedal switch,Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Bitron Industrie S.p.A.,Driver seat switch,Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Marquardt Switches Inc.,Hazard switch,Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Leopold Kostal GmbH & Co. KG,Liftgate switch,Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Leopold Kostal GmbH & Co. KG,Power window switch (passenger side),Switch,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Blove Light Precision HK Co.,Ltd.",HomeLink bracket,Telematics,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Foxconn Interconnect Technology Limited,Thermistor,Temperature Sensor,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Battery cable,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Mid West Fabricating Company,Front bumper carrier wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Front door jumper wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Panasonic Holdings Corporation (Formerly Panasonic Corporation),Front outside door handle wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,Mubea de Mexico,Ground strap,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Ningbo Yosun Auto Parts Co., Ltd.",High-voltage wiring harness upper bracket,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Bossard, Inc",Instrument panel wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Main wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Traction motor wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"BizLink Technology, Inc.",Tranction motor bay wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model S (USA),2021,"Molex, LLC",USB bundle assembly,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Mission Plastics, Inc.",A/C chiller bracket,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Modine Transferencia de Calor, S.A. de C.V.",A/C cooling fan module,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Mergon Corporation, USA",A/C duct adapter,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Modine Manufacturing Company,A/C O-ring,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,HVAC sensor,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Fico Mirrors, S.A.",Bluetooth antenna,Antenna,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,Body control ECU,Body Control ECU,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front body ECU box,Body Control ECU,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Blove Light Precision HK Co.,Ltd.",Front body ECU cover,Body Control ECU,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Pegatron Corporation,Rear body control module,Body Control ECU,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Panasonic Automotive Systems Company of America,Radio,Car Audio,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Premium Sound Solutions America LLC,Speaker,Car Audio,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Ramko Injection Inc.,Condenser support beam,Condenser,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,Touchscreen MCU,Display,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Mayser USA Inc.,Front door anti pinch sensor,Door ECU,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Foxconn Interconnect Technology Limited,Mobile connector right button,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,IC board assembly,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,MCU board,Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Intrusion sensor,Head Lamp ECU,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,FIAMM Technologies Inc. - Horns,Horn,Horn,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,USB charge port,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,Wi-Fi USB hub,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Primax Electronics Ltd.,Wireless charger assembly,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,BCS Automotive Interface Solutions GmbH (Formerly TRW Automotive Electronics & Components GmbH),Wireless smartphone charger,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Premo Mediteranee S.A.R.L.,Passive antenna,Keyless Entry / Start System,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,Cluster,Meter,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Blove Light Precision HK Co.,Ltd.",Center radar bracket,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"ElectroCraft, Inc.",2nd row seat track motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Valeo North America,Front wiper motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"LG Innotek Co., Ltd.",Front monocular camera,On-board Camera,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Quanta Computer Inc.,Power seat ECU,Power Seat ECU,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Pegatron Corporation,Rear power seat ECU,Power Seat ECU,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Fuses Unlimited,12V battery fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,MTA USA Corp.,"12V battery fuse (30A, 32V)",Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Futuris Automotive Components (Wuxi) Co., Ltd.",Battery fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Fuses Unlimited,Onboard charger fuse,Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Methode Electronics, Inc.",Brake pedal switch,Switch,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Bitron Industrie S.p.A.,Door switch,Switch,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Bitron Industrie S.p.A.,Driver seat switch,Switch,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Quicksilver Mfg, Inc.",Frunk safety release switch bracket,Switch,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Marquardt Switches Inc.,Hazard switch,Switch,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Bitron Industrie S.p.A.,Power liftgate switch,Switch,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Leopold Kostal GmbH & Co. KG,Power window switch (passenger side),Switch,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Foxconn Interconnect Technology Limited,Thermistor,Temperature Sensor,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Schukra Of North America Ltd.,2nd row seat track actuator wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,L and C Windsor Cables Ltd.,2nd row seat track release actuator wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"BizLink Technology, Inc.",Body wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"BizLink Technology, Inc.",Front main wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,Mubea de Mexico,Ground strap,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Ningbo Yosun Auto Parts Co., Ltd.",High-voltage wiring harness upper bracket,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"Bossard, Inc",Instrument panel wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model X (USA),2021,"BizLink Technology, Inc.",Traction motor wiring harness,Wiring Harness,Electrical
+China,Tesla China,Tesla,Model Y (4WD) (China),2021,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Nanjing Aotecar New Energy Technology Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Hanon Auto Parts (Shanghai) Co., Ltd.",Air conditioning system,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Nanjing Yunhai Special Metals Co., Ltd.",HVAC multiport extrusions tube,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Anhui Tatfook Technology Co., Ltd. (Formerly Shenzhen Tatfook Technology Co., Ltd.)",Antenna,Antenna,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"NavInfo Co., Ltd.",Navigation map,Car Navigation System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Suzhou Dongshan Precision Manufacturing Co., Ltd.",A/C condenser,Condenser,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Wuhu Token Sciences Co., Ltd.",Central control screen module,Display,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Suzhou Current Power Technology Co., Ltd.",High-voltage connector,Electrical Connector,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,Ningbo Joyson Electronic Corporation,Circuit protection system,Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Suzhou Dongshan Precision Manufacturing Co., Ltd.",Flexible printed circuit board (FPC),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Victory Giant Technology (HuiZhou) Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"WUS Printed Circuit (Kunshan) Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Olympic Circuit Technology Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,Tesla,System on a chip (SoC),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,Continental AG,Milliwave Radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,Valeo Group,Milliwave radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Mobileye (Shanghai) Automotive Service Co., Ltd.",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"LianChuang Electronic Technology Co., Ltd. (Formerly China-Hemp Industrial Investment Co., Ltd.)",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"LianChuang Electronic Technology Co., Ltd. (Formerly China-Hemp Industrial Investment Co., Ltd.)",On-board camera lens,On-board Camera,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,Valeo Group (China),Ultrasonic sensor,Park Assist System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Suzhou Anjie Technology Co., Ltd.",Power steering ECU,Power Steering ECU,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Xiamen Hongfa Electroacoustic Co., Ltd.",High-voltage DC relay,Relay / Fuse,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.),High-voltage DC relay,Relay / Fuse,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,Shanghai Baolong Automotive Corporation,TPMS controller,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,Shanghai Baolong Automotive Corporation,TPMS transmitter,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,Shanghai Baolong Automotive Corporation,TPMS valve,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2021,"Far East Cable Co., Ltd.",High-voltage wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,Toyota Industries Corporation,Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,Plastomer Corp.,HVAC seal and insulator,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,Grammer AG,Rear speaker cover,Car Audio,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,"Stoneridge, Inc.",7-way connector,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,"MinebeaMitsumi Inc. (Formerly Minebea Co., Ltd.)",HSD Connector,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,BCS Automotive Interface Solutions GmbH (Formerly TRW Automotive Electronics & Components GmbH),Wireless smartphone charger,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,"MinebeaMitsumi Inc. (Formerly Minebea Co., Ltd.)",Active grille shutter actuator,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,"MinebeaMitsumi Inc. (Formerly Minebea Co., Ltd.)",Charge port door actuator,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,"Brose North America, Inc.",Front power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,"MinebeaMitsumi Inc. (Formerly Minebea Co., Ltd.)",Headlamp levelling motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,"Brose North America, Inc.",Rear power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,Bosch [Robert Bosch LLC],Steering column motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,HellermannTyton GmbH,Wiring harness cable channel,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2021,Delfingen Industry S.A.,Wiring protection system,Wiring Harness,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Hanon Auto Parts (Shanghai) Co., Ltd.",Air conditioning system,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Zhejiang Sanhua Automotive Components Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Nanjing Yunhai Special Metals Co., Ltd.",HVAC multiport extrusions tube,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Anhui Tatfook Technology Co., Ltd. (Formerly Shenzhen Tatfook Technology Co., Ltd.)",Antenna,Antenna,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"NavInfo Co., Ltd.",Navigation map,Car Navigation System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Wuhu Token Sciences Co., Ltd.",Central control screen module,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Corning Automotive Glass Solutions (Hefei) Co., Ltd.",Glass panel,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Suzhou Current Power Technology Co., Ltd.",High-voltage connector,Electrical Connector,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Suzhou Dongshan Precision Manufacturing Co., Ltd.",Flexible printed circuit board (FPC),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Olympic Circuit Technology Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"WUS Printed Circuit (Kunshan) Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,NVIDIA Corporation,Integrated cockpit domain controller,In-Vehicle Infotainment Unit,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,Japan Display Inc.,Virtual instrument cluster,Meter,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,Valeo Group,Milliwave Radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Mobileye (Shanghai) Automotive Service Co., Ltd.",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Mobileye (Shanghai) Automotive Service Co., Ltd.",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"LianChuang Electronic Technology Co., Ltd. (Formerly China-Hemp Industrial Investment Co., Ltd.)",On-board camera lens,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Xiamen Hongfa Electroacoustic Co., Ltd.",High-voltage DC relay,Relay / Fuse,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,Shanghai Baolong Automotive Corporation,Tire Pressure Monitoring System (TPMS),Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,Shanghai Baolong Automotive Corporation,TPMS controller,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,Shanghai Baolong Automotive Corporation,TPMS transmitter,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,Shanghai Baolong Automotive Corporation,TPMS valve,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Xiamen Hongfa Electroacoustic Co., Ltd.",High-voltage cable,Wiring Harness,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Far East Cable Co., Ltd.",High-voltage wiring harness,Wiring Harness,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2020,"Shenzhen Deren Electronic Co., Ltd.",Wire harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Sanden Corporation (Formerly Sanden Holdings Corporation),A/C compressor pump,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Hanon Systems (Formerly Halla Visteon Climate Control),Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Tesla,ADAS ECU,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Continental AG,ADAS ECU,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Valeo Group,Evaporator core,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Vodafone Automotive SpA,Car alarm,Anti-theft / Immobilizer,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Tesla,Body controller,Body Control ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,ON Semiconductor Corp.,CMOS image sensor,Camera ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Harman Becker Automotive Systems GmbH,Radio receiver,Car Audio,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,BorgWarner Inc.,Cabin heater,Heater,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Seger Ses Ve Elektrikli Gerecler San. A. S.,Horn,Horn,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Intel Corporation,Infotainment control unit,In-Vehicle Infotainment Unit,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,NXP Semiconductors N.V.,32-bit radar MCU,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,NXP Semiconductors N.V.,77GHz radar receiver,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,NXP Semiconductors N.V.,77GHz radar transmitter,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Continental AG,Long range radar,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Continental AG,Short range radar,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,NXP Semiconductors N.V.,Voltage Controlled Oscillator(VCO),Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,"Inteva Products, LLC",Rear power window motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Tesla,Triple camera,On-board Camera,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Valeo Group,Ultrasonic sensor,Park Assist System,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Tesla,Pyro safety switch,Switch,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Gentex Corporation,Garage door opener ECU,Telematics,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Continental AG,Tire pressure monitoring system ECU,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2020,Continental AG,TPMS sensor,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model S (USA),2020,Continental AG,Front radar sensor,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model S (USA),2020,Gentex Corporation,Garage door opener ECU,Telematics,Electrical
+Americas,Tesla,Tesla,Model S (USA),2020,Continental AG,TPMS receiver,Tire Pressure Monitoring System,Electrical
+Americas,Tesla,Tesla,Model X (USA),2020,"Hanon Systems Alabama Corp.
+(Formerly Halla Visteon Climate Systems Alabama Corporation",A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model X (USA),2020,SPAL Automotive USA,Condenser,Condenser,Electrical
+Americas,Tesla,Tesla,Model X (USA),2020,Modine Manufacturing Company,Condenser,Condenser,Electrical
+Americas,Tesla,Tesla,Model X (USA),2020,Bosch [Robert Bosch LLC],Front radar sensor,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model X (USA),2020,Bosch [Robert Bosch LLC],Front radar sensor,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Nanjing Yunhai Special Metals Co., Ltd.",HVAC multiport extrusions tube,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Anhui Tatfook Technology Co., Ltd. (Formerly Shenzhen Tatfook Technology Co., Ltd.)",Antenna,Antenna,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"NavInfo Co., Ltd.",Navigation map,Car Navigation System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Wuhu Token Sciences Co., Ltd.",Central control screen,Display,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Suzhou Current Power Technology Co., Ltd.",High-voltage connector,Electrical Connector,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Suzhou Dongshan Precision Manufacturing Co., Ltd.",Flexible printed circuit board (FPC),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"WUS Printed Circuit (Kunshan) Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Olympic Circuit Technology Co., Ltd.",Printed circuit board (PCB),Electronic Control Unit,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Mobileye (Shanghai) Automotive Service Co., Ltd.",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"LianChuang Electronic Technology Co., Ltd. (Formerly China-Hemp Industrial Investment Co., Ltd.)",On-board camera lens,On-board Camera,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Hongfa Technology Co., Ltd. (Formerly Wuhan Linuo Industry Co., Ltd.)",High-voltage DC relay,Relay / Fuse,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,Shanghai Baolong Automotive Corporation,TPMS controller,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,Shanghai Baolong Automotive Corporation,TPMS transmitter,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,Shanghai Baolong Automotive Corporation,TPMS valve,Tire Pressure Monitoring System,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2020,"Far East Cable Co., Ltd.",High-voltage wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Toyota Industries Corporation,Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Bosch [Robert Bosch LLC],"ADAS ECU restraint control module (Sourced by MUNRO & ASSOCIATES, USA)",Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,"Harman International Industries, Inc.","Radio (Sourced by MUNRO & ASSOCIATES, USA)",Car Audio,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Faurecia SE (FORVIA faurecia),"Infotainment screen (Sourced by MUNRO & ASSOCIATES, USA)",Display,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,TE Connectivity Corporation,"Connector housing (Sourced by MUNRO & ASSOCIATES, USA)",Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,TE Connectivity Corporation,"Connector shield (Sourced by MUNRO & ASSOCIATES, USA)",Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,KSR International Inc.,"Electronic throttle control (Sourced by MUNRO & ASSOCIATES, USA)",Electronic Control Unit,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Continental AG,"Front radar (Sourced by MUNRO & ASSOCIATES, USA)",Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Bosch [Robert Bosch LLC],Power seat motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Bosch [Robert Bosch LLC],Steering column motor,Motor / Actuator,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,IGB Automotive Ltd.,"Seat occupant detection sensor (Sourced by MUNRO & ASSOCIATES, USA)",Occupant Detection System,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Valeo Group,"Parking sensor (Sourced by MUNRO & ASSOCIATES, USA)",Park Assist System,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,"Littelfuse, Inc.","Fuse (Sourced by MUNRO & ASSOCIATES, USA)",Relay / Fuse,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,DAA Draexlmaier Automotive of America LLC,"Door lock switch (Sourced by MUNRO & ASSOCIATES, USA)",Switch,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,"HBPO North America, Inc.","Ambient air temperature sensor (Sourced by MUNRO & ASSOCIATES, USA)",Temperature Sensor,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Aptiv PLC (Formerly Delphi Automotive PLC),"A/C wire harness connector (Sourced by MUNRO & ASSOCIATES, USA)",Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Yazaki North America Inc.,"Battery cable (Sourced by MUNRO & ASSOCIATES, USA)",Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Yazaki North America Inc.,"Door wiring harness (Sourced by MUNRO & ASSOCIATES, USA)",Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model Y (USA),2020,Aptiv PLC (Formerly Delphi Automotive PLC),"Wire harness for wireless smartphone charger (Sourced by MUNRO & ASSOCIATES, USA)",Wiring Harness,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Nanjing Aotecar New Energy Technology Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Hanon Systems (Dalian) Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Hanon Auto Parts (Shanghai) Co., Ltd.",Air Conditioning System,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Zhejiang Sanhua Automotive Components Co., Ltd.",Electronic expansion valve,Air Conditioning / HVAC,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"NavInfo Co., Ltd.",Car navigation system,Car Navigation System,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Hon Hai Precision Industry Co., Ltd.",Center information display,Display,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Dongfeng Electric Drive Systems Co., Ltd. (Formerly Dongfeng Automobile Electronics Co., Ltd.)",Cluster,Meter,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,Valeo Group,Milliwave Radar,Milliwave and Laser Radar / LiDAR,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Dias Automotive Electronic Systems Co., Ltd.",Arround view camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Mobileye (Shanghai) Automotive Service Co., Ltd.",On-board camera,On-board Camera,Electrical
+China,Tesla China,Tesla,Model 3 (RR) (China),2019,"Jiangsu Rixing Electronics Co., Ltd.",Interior mirror wiring harness,Wiring Harness,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,Sanden Corporation (Formerly Sanden Holdings Corporation),A/C compressor pump,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,Hanon Systems (Formerly Halla Visteon Climate Control),Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,NVIDIA Corporation,ADAS ECU,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,Continental AG,ADAS ECU,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,Infineon Technologies Americas Corp.,ADAS MCU,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,NVIDIA Corporation,ADAS processor,Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,Valeo Group,Evaporator core,Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,I.G.Bauerhin GmbH,Passenger detection sensor,Occupant Detection System,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2019,Gentex Corporation,Garage door opener ECU,Telematics,Electrical
+Americas,Tesla,Tesla,Model S (USA),2019,Hanon Systems (Formerly Halla Visteon Climate Control),Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model S (USA),2019,Air International (USA) Inc.,Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model S (USA),2019,Gentex Corporation,Garage door opener ECU,Telematics,Electrical
+Americas,Tesla,Tesla,Model X (USA),2019,"Hanon Systems Alabama Corp.
+(Formerly Halla Visteon Climate Systems Alabama Corporation",A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model X (USA),2019,Modine Manufacturing Company,Condenser,Condenser,Electrical
+Americas,Tesla,Tesla,Model X (USA),2019,SPAL Automotive USA,Condenser,Condenser,Electrical
+Americas,Tesla,Tesla,Model X (USA),2019,Bosch [Robert Bosch LLC],Front radar sensor,Milliwave and Laser Radar / LiDAR,Electrical
+Americas,Tesla,Tesla,Model X (USA),2019,Bosch [Robert Bosch LLC],Blower motor,Motor / Actuator,Electrical
+China,Tesla China,Tesla,Model Y (RR) (China),2019,"Nanjing Aotecar New Energy Technology Co., Ltd.",Electric A/C compressor,A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Hanon Systems (Formerly Halla Visteon Climate Control),"HVAC compressor (Sourced by MUNRO & ASSOCIATES, USA)",A/C Compressor,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Continental AG,Air conditioning line,A/C Hoses,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Bosch [Robert Bosch LLC],"ADAS ECU restraint control module (Sourced by MUNRO & ASSOCIATES, USA)",Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,NVIDIA Corporation,"Advanced Driver Assistance System (ADAS)(Sourced by MUNRO & ASSOCIATES, USA)",Advanced Driver Assistance ECU,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Faurecia SE (FORVIA faurecia),"Air vent duct motor (Sourced by MUNRO & ASSOCIATES, USA)",Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Valeo Group,"Evaporator (Sourced by MUNRO & ASSOCIATES, USA)",Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Valeo Group,"HVAC Unit Body (Sourced by MUNRO & ASSOCIATES, USA)",Air Conditioning / HVAC,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,MD ELEKTRONIK GmbH,Antenna sub-assembly,Antenna,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,"Harman International Industries, Inc.","Radio antenna (Sourced by MUNRO & ASSOCIATES, USA)",Antenna,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Lumberg Connect GmbH,Connector,Electrical Connector,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Kongsberg Automotive ASA,Seat heat,Heater,Electrical
+Americas,Tesla,Tesla,Model 3 (USA),2018,Seger Ses Ve Elektrikli Gerecler San. A. S.,"Horn assembly (Sourced by MUNRO & ASSOCIATES, USA)",Horn,Electrical
